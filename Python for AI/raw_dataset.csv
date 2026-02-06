@@ -1,0 +1,1051 @@
+id,name,email,phone_number,age,gender,city,country,registration_date,last_login,purchase_amount,product_category,feedback_score
+146,Peter Smith,peter.smith@mail.net,'+1 576 183 7154,22,OTHER,San Diego,Germany,14-10-2021,13-05-2022 10:33,582.04,Food,1
+212,Peter Jones,peter.jones@mail.net,'+1 221 925 1745,30,Female,San Diego,India,11-04-2021,05-12-2023 17:39,721.3,Food,1
+795,Emily Miller,emily.miller@example.com,(693) 341-6412,19,Other,Los Angeles,Canada,28-12-2022,12-06-2025 06:30,998.73,Clothing,2
+574,Mary Davis,mary.davis@example.com,(325) 645-1496,60,Male,San Diego,Mexico,03/27/2021,,449.73,Food,3
+617,Peter Brown,peter.brown@example.com,(214) 571-8988,58,Male,Phoenix,France,31-01-2024,06/22/2025 22:38,690.56,Clothing,2
+162,Michael Davis,michael.davis@test.org,601-146-6021,67,Otheer,Houston,UK,27-12-2020,04/25/2023 02:20,654.32,Clothing,1
+308,John Davis,john.davis@test.org,(740) 192-1530,64,Male,Chicago,Australia,02-06-2022,01/31/2025 16:46,234.04,Books,4
+164,Jane Williams,jane.williams@test.org,2057043788,18,Male,Chicago,Mexico,05-03-2024,16-02-2025 12:16,417.95,Electronics,4
+22,John Wilson,john.wilson@test.org,,56,Male,Chicago,Mexico,05/15/2022,18-05-2023 18:54,97.75,Home Goods,1
+699,Sarah Smith,sarah.smith@test.org,(475) 044-0749,32,Female,Chicago,Narnia,15-09-2024,05-01-2025 19:55,,Food,5
+478,Emily Davis,emily.davis@example.com,762-057-5332,31,Male,Phoenix,Australia,11-09-2022,11-04-2025 06:58,659.42,Home Goods,2
+439,Jane Wilson,jane.wilson@example.com,8325732540,44,Male,New York,Narnia,02/22/2022,30-01-2024 07:36,306.76,Home Goods,2
+448,Sarah Davis,sarah.davis@mail.net,(811) 074-5510,44,Other,Phoenix,France,07-12-2020,30-10-2021 07:23,136.7,Clothing,4
+13,Peter Wilson,peter.wilson@mail.net,'+1 168 987 3692,25,Otheer,Phoenix,UK,23-03-2021,02/24/2024 11:35,86.19,Home Goods,3
+723,Mary Miller,mary.miller@mail.net,3626147168,25,Other,Phoenix,Australia,08-02-2023,,656.98,Books,5
+697,Sarah Smith,,8842444448,29,MALE,San Antonio,France,04/26/2025,20-07-2025 11:44,,Home Goods,5
+266,Mary Miller,mary.miller@test.org,808-706-5420,28,Male, New York ,Canada,25-10-2021,04-11-2024 13:55,642.08,Clothing,2
+248,John Smith,john.smithtest.org,(641) 062-0405,65,Malee,Phoenix,Mexico,02-02-2024,15-12-2024 09:18,387.71,Sports,2
+503,Mary Miller,mary.miller@test.org,2053806296,68,Male, San Antonio ,Germany,27-01-2025,,292.04,Home Goods,1
+823,Emily Davis,emily.davis@example.coom,,57,Female,New York,Germany,27-03-2023,13-09-2023 02:34,641.99,Clothing,3
+946,Michael Miller,michael.miller@mail.net,3425397240,63,Male,San Diego,India,13-09-2021,14-12-2021 22:46,227.78,Books,3
+442,David Jones,david.jones@test.org,(165) 702-8906,41,Other,San Diego,Germany,31-03-2024,06/21/2024 21:11,563.78,Home Goods,4
+422,Mary Williams,mary.williams@mail.net,(623) 503-2952,34,Male, Phoenix ,USA,18-03-2020,11-03-2025 12:54,522.88,Sports,1
+4,Sarah Miller,sarah.miller@test.org,(744) 553-7260,30,Feemalee,Houston,France,26-03-2023,31-08-2023 05:16,767,Clothing,5
+779,Jane Brown,jane.brown@test.org,6624065482,33,Female,Phoenix,Canada,21-08-2021,12-02-2023 18:53,50000,Food,4
+726,Sarah Jones,sarah.jones@mail.net,'+1 000 504 8174,49,Female,Phoenix,USA,06-06-2023,21-09-2024 14:57,332.78,Electronics,1
+9,Michael Williams,michael.williams@example.com,816-673-5655,,Feemalee,Houston,India,31-05-2025,06-03-2025 22:35,749.27,Cl0thing,1
+909,Michael Wilson,michael.wilson@test.org,'+1 369 561 5788,36,Other,San Diego,UK,04/24/2021,08-09-2023 15:08,701.14,Sports,3
+643,John Doe,john.doe@test.org,'+1 987 748 7950,20,Male,Houston,Germany,07-12-2020,02-12-2023 19:55,179.48,Electronics,1
+753,Peter Smith,peter.smith@test.org,420-498-6629,28,MALE,Phoenix,India,11/30/2021,12/26/2022 18:35,309.35,Books,4
+82,David Williams,david.williams@test.org,(630) 168-9153,63,Female,Phoenix,Germany,03-11-2025,06/24/2025 15:42,216.37,Home Goods,1
+661,Michael Wilson,michael.wilson@example.com,(779) 383-7587,36,Female,San Antonio,USA,03/24/2025,09-07-2025 12:54,960.16,Home Goods,4
+776,Sarah Wilson,sarah.wilson@test.org,(435) 189-7986,55,Other,San Antonio,Mexico,13-03-2021,04/18/2021 02:09,724.64,Home Goods,5
+488,Jane Wilson,jane.wilson@test.org,'+1 676 808 3241,20a,Other, Philadelphia ,Narnia,15-05-2020,26-04-2022 03:37,473.32,Sports,2
+606,Michael Wilson,michael.wilson@test.org,(894) 165-2917,31,Other,San Antonio,Canada,09/30/2024,24-01-2025 02:01,470.29,Food,4
+3,Emily Jones,emily.jones@test.org,,68,Male,New York,UK,02/19/2023,06/24/2024 14:20,850.35,Home Goods,6
+870,Sarah Jones,sarah.jones@mail.net,'+1 675 315 5029,70,Male,New York,Mexico,29-08-2022,27-03-2023 03:44,674.01,Home Goods,3
+553,Mary Davis,mary.davis@example.com,'+1 830 264 7274,68,Male,Chicago,USA,12-07-2020,02/19/2024 23:43,18.08,Home Goods,4
+365,Emily Brown,emily.brown@test.org,(028) 074-0190,43,Other,Phoenix,UK,14-11-2024,27-07-2025 13:41,694.78,Home Goods,5
+275,Peter Smith,peter.smith@mail.net,8063337186,51,Otheer,,Australia,25-11-2024,08-12-2024 06:47,737.47,Home Goods,3
+490,Sarah Williams,sarah.williams@test.org,280-961-1404,61,Female,Phoenix,Germany,02/14/2021,08-08-2024 01:42,106.07,Home Goods,1
+839,Mary Williams,mary.williams@test.org,779-248-0878,48,Male,San Diego,Canada,12-05-2024,06/29/2025 07:47,649.88,B00ks,5
+997,Jane Brown,jane.brown@mail.net,'+1 680 047 1741,32,Female,Phoenix,France,02-04-2023,07/15/2023 19:03,124.39,B00ks,2
+887,Sarah Smith,sarah.smithexample.com,385-655-9878,24,Female,Chicago,Australia,25-05-2023,31-01-2024 23:34,302.66,Home Goods,1
+637,Sarah Jones,sarah.jones@example.com,'+1 196 779 3485,,male,Philadelphia,Australia,05-09-2025,12-05-2025 03:54,922.92,Food,4
+954,Michael Doe,michael.doe@mail.net,(694) 290-6848,35,Female,New York,India,01-10-2022,05/24/2023 16:11,46.65,Sports,4
+95,Peter Smith,peter.smith@mail.net,567-427-9916,66,Female,New York,Australia,04-11-2022,05-07-2024 23:44,936.45,Home Goods,3
+975,Jane Williams,jane.williamsexample.com,462-940-9655,42,Male,Chicago,USA,20-05-2020,12-05-2023 08:05,-10,Clothing,1
+962,Emily Davis,emily.davis@example.com,3959998261,44a,Male,Chicago,USA,01/28/2024,10/14/2024 02:17,814.69,Electronics,1
+650,Mary Williams,mary.williams@test.org,6854678562,18,Otheer, Los Angeles ,Germany,19-09-2023,,868,Clothing,10
+507,Mary Brown,mary.brown@example.com,(594) 981-4327,27,Male,L0s Angeles,Germany,20-06-2022,21-01-2025 00:12,217.5,F00d,2
+998,Michael Wilson,michael.wilson@example.coom,6116302185,-5,male,Houston,Mexico,08-07-2022,17-07-2022 06:29,898.1,Sports,5
+528,Sarah Williams,sarah.williams@mail.net,'+1 951 571 0112,,Female,,India,10/28/2022,23-04-2025 22:08,805.55,Electronics,3
+125,Michael Doe,michael.doe@mail.net,3785637395,28,Other,San Antonio,Canada,08-10-2023,12-10-2023 16:29,304.62,Sports,3
+866,David Williams,david.williams@example.com,498-894-3964,52,Male,Philadelphia,Australia,17-03-2020,06-11-2024 01:57,489.38,Food,4
+559,Mary Wilson,mary.wilson@example.com,6129018336,67,Female,Chicago,Germany,03-11-2022,06/23/2025 18:08,262.96,Books,1
+764,Emily Brown,emily.brown@test.org,589118944,27,Male,Phoenix,Germany,07-03-2023,01-05-2025 22:55,977.99,Food,5
+844,David Williams,david.williams@mail.net,,38,Male,San Antonio,Canada,20-05-2023,30-05-2024 14:32,817.53,Books,1
+182,Peter Davis,peter.davis@example.com,'+1 978 754 0018,21,Female,San Antonio,USA,15-10-2022,02/25/2025 16:12,123.63,Food,4
+848,Michael Brown,michael.brown@example.coom,6137815436,,Female,Los Angeles,UK,29-05-2020,11/20/2024 18:39,679.45,Sports,2
+772,John Doe,john.doe@test.org,879-489-2349,30,Other,,Mexico,09/13/2023,06/18/2024 09:56,537.26,Home Goods,4
+846,Peter Smith,peter.smith@example.com,'+1 737 281 9068!,40,Male,Los Angeles,Mexico,11/15/2024,09-04-2025 03:53,789.16,Clothing,1
+544,Mary Davis,mary.davis@test.org,,29,Male,San Diego,Narnia,11-12-2021,03-10-2023 10:23,318.43,Food,4
+221,Mary Brown,mary.brown@mail.net,029-992-4908a,62,Other,San Antonio,Australia,11-04-2023,18-04-2025 18:31,474.95,Sports,3
+415,John Wilson,john.wilson@test.org,'+1 808 581 7540,42,Female, San Ant0ni0 ,India,26-02-2021,19-02-2022 15:41,792.12,Books,1
+669,Jane Doe,jane.doe@example.com,'+1 359 827 4940,32,Other,Phoenix,UK,07/20/2020,17-06-2023 14:54,622.8,Electr0nics,5
+762,Mary Miller,mary.miller@test.org,(142) 030-5794,70,Other,Phoenix,UK,27-06-2020,,-10,Electronics,5
+425,Sarah Miller,sarah.miller@mail.net,163-968-2584,,Other,San Diego,Australia,22-09-2020,20-03-2021 01:47,626.97,Books,4
+179,Michael Smith,michael.smith@test.org,(242) 865-7449,58,MALE,Phoenix,Francex,08/16/2023,28-06-2025 08:10,668.14,Food,3
+787,Peter Smith,peter.smith@example.com,988-069-4889,67,MALE,Houston,UK,12-05-2024,18-09-2024 04:52,947.09,Home Goods,2
+386,Jane Doe,jane.doe@mail.net,(510) 066-1949,39,Female,San Diego,India,05-08-2023,23-05-2024 12:22,462.36,Home Goods,5
+731,Sarah Miller,sarah.miller@example.com,065-343-5667,23,Other,New York,UK,08-07-2020,15-07-2020 08:27,650.69,Electronics,3
+535,John Wilson,john.wilson@mail.net,(746) 551-6576,34,Female,San Antonio,Mexico,19-08-2024,03-01-2025 23:09,603.5,Books,1
+10,Michael Jones,michael.jones@test.org,'+1 273 637 0309,20,male,Philadelphia,USA,06/29/2025,05-07-2025 20:29,162.59,Home Goods,2
+141,David Miller,david.miller@example.com,880-966-3495,31,Male,San Diego,India,25-02-2024,04/29/2025 20:54,494.24,Books,4
+183,Jane Smith,jane.smith@mail.net,'+1 000 843 9873,63,Female,New York,UK,15-02-2025,25-05-2025 16:09,217.59,Clothing,5
+434,Sarah Doe,sarah.doe@example.com,,57,Female,San Antonio,Germany,29-05-2021,05-08-2024 21:47,239.21,Electronics,5
+938,John Wilson,john.wilson@example.com,642-301-4297,60,Female,San Antonio,UK,21-06-2023,10-09-2024 14:18,740.3,Home Goods,5
+412,Peter Williams,peter.williams@example.com,'+1 281 806 5209,35,Male,,UK,26-03-2025,16-07-2025 10:55,362.9,Books,1
+714,  Emily Doe  ,,'+1 344 577 9390,59,Female,Philadelphia,France,06-03-2021,02-02-2022 15:34,320.25,Books,4
+205,Peter Brown,peter.brown@test.org,1156953157,37,Female,Houston,Australia,17-07-2025,20-07-2025 00:23,773.91,Home Goods,5
+741,Jane Wilson,jane.wilson@mail.net,(161) 078-8992,61,female,New York,Mexico,17-07-2024,26-08-2024 23:14,468.36,Clothing,4
+929,David Davis,david.davistest.org,(370) 600-3969,25,Male,Philadelphia,Australiax,29-10-2020,29-08-2024 02:28,796.7,Sports,3
+566,Michael Wilson,michael.wilson@test.org,542-326-2010,62,Male,Houston,USA,22-07-2023,03-03-2024 23:10,746.94,Sports,2
+418,John Smith,john.smith@test.org,148-435-5274,37,Other,Houston,India,24-06-2024,18-10-2024 17:16,401.2,Books,3
+701,Sarah Miller,sarah.miller@test.org,(198) 423-2047,24,FEMALE,Los Angeles,India,25-08-2024,21-10-2024 17:40,518.44,Clothing,2
+441,Sarah Williams,sarah.williams@test.org,'+1 057 043 4100,20,Male,Phoenix,France,06-03-2023,09-02-2025 05:45,219.56,H0me G00ds,4
+895,Michael Wilson,michael.wilson@example.com,'+1 453 256 3610,41,Male,Phoenix,Australia,22-08-2024,10/19/2024 06:30,,Electronics,4
+235,Jane Williams,jane.williams@example.com,'+1 889 307 9630,44,Female,San Antonio,Canada,01-02-2023,03-07-2025 16:04,880.33,Home Goods,1
+608,David Brown,david.brown@mail.net,529-417-6854,59,Other,Los Angeles,UK,03/26/2024,27-05-2025 10:08,895.06,Books,2
+521,Sarah Brown,sarah.brown@example.com,,35,Male,,Canada,01-10-2020,12/24/2023 20:27,646.17,Books,1
+794,Mary Davis,mary.davis@mail.net,'+1 734 932 9154,36,Male,San Antonio,UK,19-01-2021,18-10-2023 15:52,938.84,Electr0nics,1
+768,Mary Williams,mary.williams@example.com,'+1 592 970 5216,,Other,New York,Mexico,19-03-2024,06-01-2025 13:03,792.33,Books,5
+34,Emily Jones,emily.jones@mail.net,'+1 674 532 9028,61,Other,San Antonio,UK,31-07-2020,10-12-2023 22:02,231.29,Electronics,4
+250,Peter Smith,,(357) 698-8511,25,Female,Phoenix,India,30-08-2023,21-04-2024 02:49,444.68,Food,1
+550,Michael Davis,michael.davis@test.org,,45,Female, Phoenix ,Canada,08/21/2023,03/24/2024 13:38,150.01,Books,5
+534,  Peter Wilson  ,peter.wilson@example.com,'+1 144 798 9535,46,male,Chicago,Mexico,19-01-2020,23-06-2025 20:04,966.65,Food,5
+48,Peter Miller,peter.miller@test.org,'+1 946 123 5518,25,male,Philadelphia,Australia,11/21/2024,07-02-2025 05:18,482.74,Sports,3
+721,Peter Williams,peter.williams@example.com,(694) 077-6999,61,Other,Houston,India,05/18/2025,17-07-2025 09:30,790.82,Clothing,2
+270,Emily Miller,emily.miller@mail.net,514-565-7745,31,Male,Philadelphia,France,11-05-2023,09/24/2024 08:58,935.5,Sports,2
+19,Sarah Jones,sarah.jones@mail.net,(923) 627-3487,27,Female,Chicago,Germanyx,09-10-2020,29-08-2024 14:43,50000,Food,4
+269,Sarah Miller,sarah.miller@test.org,7227535731,36,Male,Houston,UK,08-08-2024,04-05-2025 08:03,750.34,Clothing,5
+548,Emily Davis,,137-982-0905,41,Female,San Diego,USA,31-12-2024,11-03-2025 19:48,787.28,Electronics,3
+325,Michael Williams,michael.williams@test.org,600-172-8691,29,female,Chicago,Canada,06-02-2024,19-07-2024 03:23,245.75,Books,2
+607,Michael Jones,michael.jones@example.com,(509) 518-8095,69,male,San Antonio,France,29-12-2024,09-07-2025 06:25,800.95,Home Goods,3
+313,Jane Jones,jane.jones@mail.net,(397) 393-3370,23,Female,San Dieg0,France,05/21/2024,14-08-2024 21:17,36.02,Sports,2
+865,Sarah Williams,,'+1 613 953 0483,47,Female, New York ,India,22-02-2024,18-07-2024 06:13,464.51,Books,3
+500,Emily Doe,emily.doe@test.org,,33,female,New York,USA,26-02-2025,04/29/2025 22:16,177.31,Electronics,5
+523,  Michael Davis  ,michael.davis@test.org,(447) 682-3725,31,Male,H0ust0n,Australia,12-04-2023,20-11-2024 02:49,511.34,Electronics,4
+777,David Davis,david.davis@test.org,7179584465,54,Other,San Diego,Australiaq,28-06-2023,25-03-2024 07:05,650.18,Clothing,4
+554,S@r@h Wilson,sarah.wilson@mail.net,918-289-4173,33,Male,Ph0enix,France,09/22/2022,20-05-2024 01:16,179.85,Books,4
+196,Jane Smith,jane.smith@mail.net,974-310-4933,65,other,San Antonio,Canada,02-11-2021,07/27/2023 17:19,153.12,Food,4
+971,Sarah Jones,sarah.jones@mail.net,(175) 329-9836,62,Other,Chicago,Canada,02/14/2022,,279.16,Electronics,3
+104,Emily Miller,emily.miller@mail.net,(785) 456-4287,60,Otheer,,Australia,06-04-2023,06-10-2024 17:32,663.34,Food,3
+927,Jane Davis,jane.davis@example.com,(276) 980-7805,65,Male,,Canada,12-11-2024,13-11-2024 13:43,723.85,Books,3
+125,Michael Doe,michael.doe@mail.net,3785637395,28,Other,San Antonio,Canada,08-10-2023,12-10-2023 16:29,304.62,Sports,3
+630,Sarah Miller,sarah.miller@example.com,580-864-7587,62,Feemalee,San Diego,Australia,19-03-2022,12/20/2024 20:16,614.05,Clothing,1
+982,Jane Wilson,jane.wilson@mail.net,312-946-1345,57,Female,Philadelphia,UK,02-06-2025,27-06-2025 00:46,752.04,Books,5
+166,Mary Jones,mary.jones@mail.net,(475) 611-7264,22a,Other,Los Angeles,USAz,08-11-2020,20-05-2022 17:06,514.67,Clothing,2
+973,Peter Jones,peter.jones@mail.net,,50,Other,San Diego,Canada,02/28/2023,01-05-2025 17:54,198.29,Sports,5
+419,David Jones,david.jones@example.com,'+1 009 407 9936,44,Female,Philadelphia,France,21-01-2021,10/22/2024 00:36,353.99,Clothing,5
+184,Sarah Doe,sarah.doe@mail.net,971-186-0916,57,Other,San Antonio,France,30-01-2023,25-05-2024 11:20,424.02,Clothing,2
+379,Sarah Jones,sarah.jones@example.com,'+1 266 214 6142,39,Male,San Antonio,Mexicoq,18-11-2023,11/28/2023 04:27,990.51,Books,3
+931,John Brown,,5197395204,41,OTHER,Los Angeles,Canada,19-10-2024,24-05-2025 15:58,787.18,Sports,1
+568,John Davis,john.davis@mail.net,,70,Male,New York,Germany,05/23/2021,05-12-2021 11:08,128.18,Books,4
+860,Sarah Miller,sarah.miller@example.com,037-026-0785,28,Other,,India,30-04-2022,09/26/2022 20:30,772.86,Home Goods,2
+579,Michael Brown,michael.brown@mail.net,211-310-7950!,26,Female,,USA,26-06-2025,,632.75,Home Goods,4
+746,Emily Davis,emily.davis@example.com,'+1 459 214 4009,39,Male,Philadelphia,Germany,26-03-2025,02-04-2025 13:12,,Clothing,5
+899,Peter Davis,peter.davis@example.com,(849) 579-8441,31,Male, San Diego ,Germany,29-11-2022,01/24/2023 20:43,198.59,Electronics,2
+761,Jane Jones,jane.jones@example.com,8487523272,67,Female, New York ,France,02/14/2020,25-08-2024 15:20,481.07,Home Goods,4
+867,Jane Wilson,jane.wilson@test.org,(342) 293-1723,,Other,San Antonio,Mexico,01-09-2020,08-07-2025 05:08,331.68,Clothing,1
+662,John Williams,john.williams@mail.net,7234559112,37,Other,Chicago,UK,02/15/2023,11-06-2023 07:20,668.33,Books,2
+257,Mary Davis,mary.davis@mail.net,048-292-6029,30,Female,New York,France,12/17/2021,27-06-2023 01:03,926.3,Books,4
+543,Emily Miller,emily.miller@test.org,(439) 188-6443,52,Male,New York,UK,09-09-2021,08-02-2022 04:11,935.61,Sports,4
+233,Mary Davis,mary.davis@mail.net,813-382-3164,59,Female,Chicago,USA,29-05-2025,06/23/2025 12:51,37.47,Electronics,5
+204,Peter Brown,peter.brown@test.org,,28,Female,Los Angeles,USA,01-07-2020,01-05-2020 20:07,432.52,Electronics,2
+857,Jane Brown,jane.brown@example.com,,47,Other,New York,France,03-04-2024,05/30/2025 21:05,604.93,Electronics,1
+784,Peter Jones,peter.jones@test.org,,59,FEMALE,New York,Canada,05-12-2020,11-11-2022 03:06,260.69,Electronics,1
+268,Peter Doe,peter.doe@test.org,153-008-6026,36,Otheer,Chicago,India,24-04-2021,09-07-2021 21:44,531.62,Home Goods,2
+539,Peter Davis,peter.davis@test.org,(559) 082-4281a,26,Other,San Antonio,India,15-09-2020,04-05-2021 11:43,111.3,Sports,2
+957,John Jones,john.jones@mail.net,(884) 970-5548,59,Female,San Antonio,France,18-02-2025,27-05-2025 03:41,66.76,Books,2
+321,John Doe,john.doe@mail.net,'+1 931 215 2027,63,Other,Houston,USA,01/26/2024,28-04-2024 20:42,,Food,3
+921,Emily Davis,emily.davis@test.org,'+1 894 739 8097,60,Other,Philadelphia,USA,02-11-2023,23-09-2024 23:34,34.56,Food,5
+116,Michael Williams,,367-430-6516,28,Male,New York,USA,11/28/2020,12/25/2021 21:10,365.23,Books,1
+797,David Brown,david.brown@example.com,399-407-2181,55,Female, San Diego ,USA,25-03-2024,13-06-2024 05:38,855.01,Home Goods,2
+328,Mary Davis,mary.davis@test.org,023-492-7773,54,MALE,New York,Canada,02/25/2023,11-10-2023 02:05,17.31,Electronics,1
+403,Jane Miller,jane.miller@test.org,5961235765,27,other,Chicago,Australia,14-11-2022,13-05-2023 21:42,413.4,Electronics,3
+596,John Brown,john.brown@test.org,(479) 179-1739,66,FEMALE,Chicago,Canada,19-01-2022,03/16/2025 13:41,985.7,Books,2
+891,Peter Davis,peter.davis@mail.net,(400) 835-2886,38,MALE,Los Angeles,Narnia,06/25/2025,05-07-2025 05:41,300.14,Clothing,3
+911,John Williams,john.williams@example.com,(041) 295-6217,55,Female,Houston,Australia,19-05-2021,11-05-2021 22:06,92.09,Home Goods,1
+465,Mary Brown,mary.brown@test.org,080-609-9178,21,Other,Los Angeles,USA,10-02-2022,28-03-2023 10:12,683.62,Electronics,0
+917,D@vid Miller,david.miller@mail.net,3062744421,66,Female,San Antonio,Mexico,10-02-2024,23-05-2025 05:36,999.5,Books,5
+255,John Miller,john.miller@test.org,262-456-9544,54,Other,Philadelphia,Germany,30-07-2023,11-12-2024 05:51,715.31,Home Goods,4
+271,Mary Williams,mary.williams@mail.net,113-150-8543,58,female,New York,Germany,11-01-2020,03/17/2024 15:32,993.14,Food,10
+130,Mary Brown,mary.brown@mail.net,961588389,61,Other,Houston,Australia,08-09-2022,25-10-2024 12:11,687.37,Books,2
+664,Sarah Wilson,sarah.wilson@mail.net,(258) 404-9678,45a,Male,Chicago,Mexico,24-01-2021,22-05-2022 19:00,29,Sports,4
+676,Emily Wilson,emily.wilson@mail.net,'+1 532 503 2160,38,female,San Diego,Australia,06/26/2023,11-05-2025 11:53,477.48,Sports,4
+102,Emily Doe,emily.doe@mail.net,(647) 535-3503,69,Male,Phoenix,UK,07-03-2023,28-03-2024 21:17,,Electronics,2
+864,Sarah Jones,,(526) 748-4140,34,Female,Phoenix,Mexico,05-10-2022,10-07-2025 02:31,209.7,Electronics,2
+299,John Jones,john.jones@example.com,'+1 026 741 4434,51,Male,Chicago,Australia,12-10-2022,26-02-2024 12:45,966.61,Food,2
+363,David Brown,david.brown@test.org,3455821834,54,female,Phoenix,Mexico,11-01-2020,17-07-2023 10:23,948.77,Electronics,5
+639,John Davis,john.davis@mail.net,,55,Other,Houston,UK,08-11-2022,07-04-2024 22:32,202.15,Sports,5
+227,Michael Smith,michael.smith@mail.net,'+1 748 111 9415,58,Other,,India,09/16/2023,08/23/2024 02:51,485.55,Sports,2
+863,Peter Wilson,peter.wilson@example.com,661-739-6798,,Female,Houston,UK,15-08-2023,09-05-2024 13:39,31.38,Food,2
+455,Peter Doe,peter.doe@test.org,(976) 653-6520,40,female,San Diego,France,07-11-2021,15-05-2025 23:04,910.86,Clothing,1
+890,David Miller,david.miller@example.com,6985717419,54,Other,San Antonio,Canada,21-10-2021,30-01-2025 01:05,652.84,Sports,5
+291,John Smith,john.smith@example.com,(693) 857-8222,34,Female,Phoenix,UK,01-10-2021,29-05-2023 20:19,835.69,Electronics,4
+210,John Miller,john.miller@mail.net,180-772-1749,62,Female,San Antonio,Canada,24-05-2021,10-04-2023 11:27,743.95,Electronics,10
+514,John Davis,john.davis@mail.net,(543) 651-4163,150,Other,San Diego,Mexico,02-01-2024,15-02-2025 08:37,140.4,Books,2
+615,Mary Brown,mary.brown@mail.net,2322944317,46a,Other,San Diego,Mexico,06-07-2025,11-07-2025 08:17,472.01,Home Goods,3
+829,Emily Brown,,9131355982,27,male,Phoenix,Australia,02/21/2024,25-05-2024 21:53,23.21,Books,1
+253,Sarah Jones,sarah.jones@test.org,'+1 376 853 5554,34,Female,San Diego,USA,30-03-2024,15-09-2024 04:34,482.72,Books,2
+801,Mary Davis,mary.davis@mail.net,(005) 842-0807,38,male,San Antonio,UK,12-05-2024,26-04-2025 04:31,986.36,Electronics,4
+595,John Davis,john.davis@test.org,603-059-5492,35,Male,Phoenix,India,02-07-2020,,728.19,Home Goods,1
+445,John Wilson,john.wilson@test.org,525-593-2862,,Male,Los Angeles,USA,30-05-2023,07-07-2024 13:54,951.66,Electronics,3
+555,John Miller,john.miller@test.org,4012925391,62,Female,Los Angeles,Australiax,08-06-2021,15-10-2021 12:25,266.01,Clothing,2
+827,John Smith,john.smith@example.com,549-662-6562,48,Male,,USA,03-10-2023,09-03-2025 02:12,755.57,Home Goods,4
+939,Sarah Wilson,sarah.wilson@test.org,603-941-6382,57,MALE,,Germany,12-06-2022,18-01-2025 19:34,222.14,Books,2
+173,David Davis,david.davis@mail.net,(002) 739-6918,63,Male,Houston,Germany,30-01-2025,03/31/2025 14:04,200.64,Food,5
+259,Jane Miller,jane.miller@mail.net,,28,Other,New York,Atlantis,22-08-2023,06/13/2025 03:20,119.42,Clothing,3
+964,Sarah Smith,sarah.smith@test.org,6737015202,42,Other,Phoenix,Canada,21-03-2020,07/25/2024 17:01,,Sports,1
+364,  Peter Smith  ,,'+1 125 230 9418,18,OTHER,San Antonio,France,28-04-2020,09-06-2020 19:24,312.53,Clothing,1
+75,Emily Miller,emily.miller@example.com,970-934-4040,24,Male,Philadelphia,Germany,06-02-2024,04/24/2025 15:24,105.06,Clothing,4
+252,Sarah Doe,sarah.doe@example.com,9638029046,37,Other,Philadelphia,Australia,09-04-2021,13-07-2022 07:10,836.04,Food,1
+713,Jane Miller,,608-019-6406,29,Male,Houston,USA,30-11-2022,,558.54,Sports,1
+886,David Williams,david.williams@mail.net,'+1 623 623 4714,41,other,,Australia,27-02-2022,06/17/2022 17:07,112.91,Clothing,2
+783,John Williams,john.williams@example.com,5208137127,63,FEMALE,New York,USA,10/20/2024,07/20/2025 03:39,453.26,Clothing,2
+977,Michael Miller,michael.miller@mail.net,'+1 656 588 6242,-5,Female,San Antonio,USA,25-02-2025,03/13/2025 16:05,223.12,Electronics,4
+729,Michael Williams,michael.williamsmail.net,8898241154,32,Female,San Antonio,India,12-01-2022,11/30/2023 19:24,349.93,Clothing,1
+703,John Doe,john.doe@test.org,(581) 627-6635,59,Male,Houston,USA,04-10-2021,07/18/2024 16:49,545.49,Food,0
+355,Michael Miller,michael.miller@test.org,(852) 611-8376,58,Other,,UK,05-02-2021,05-11-2022 11:04,482.35,Clothing,2
+197,Sarah Wilson,sarah.wilson@mail.net,(778) 826-0037,,female,San Antonio,Australia,17-03-2021,12-03-2022 05:54,628.53,Electronics,1
+483,John Smith,john.smith@example.com,(541) 920-8742,51,Female,Philadelphia,Germany,22-06-2022,10-04-2022 05:53,72.72,Electr0nics,2
+599,Sarah Williams,sarah.williams@example.com,'+1 652 914 5620,36,Other,Houston,India,23-12-2020,,937.02,Books,5
+147,Michael Williams,michael.williams@mail.net,6719084488,28,Other,Houston,Australiaz,13-11-2021,28-01-2024 11:47,332.65,Home Goods,3
+945,Sarah Brown,sarah.brown@test.org,316-245-8336,19,male,New York,France,20-08-2020,06/24/2021 04:43,727.53,Electronics,3
+821,John Jones,john.jones@mail.net,561416178,59,Male,L0s Angeles,Australia,02-05-2024,09-05-2024 11:00,820.37,Home Goods,5
+915,Jane Wilson,jane.wilson@mail.net,604-239-5607,70,Other,,Canada,09-06-2021,12/16/2022 22:23,430.13,Electronics,3
+394,Peter Smith,peter.smith@test.org,973-242-7317,,Other,Phoenix,Germany,05/21/2023,26-09-2023 03:41,631.64,Sports,4
+69,D@vid Willi@ms,david.williams@mail.net,(715) 983-6072,57,Male,Chicago,UK,01-04-2023,07-01-2023 15:30,989.54,Electronics,4
+999,Mary Wilson,mary.wilson@mail.net,'+1 907 212 2776,58,Female,Philadelphia,USA,09-07-2023,25-07-2025 04:40,830.26,Food,1
+778,Michael Smith,michael.smith@example.com,254-919-9421,51,Other,New York,UK,27-12-2022,09-05-2024 08:58,519.03,Sports,2
+869,Jane Williams,jane.williams@example.com,(599) 809-1174,33,other,,India,18-02-2021,19-10-2021 07:12,987.66,Sports,2
+79,Emily Doe,emily.doe@mail.net,1286722623,41,Female,San Antonio,UK,20-05-2022,15-03-2023 07:57,963.5,Home Goods,1
+135,Sarah Williams,sarah.williams@mail.net,659-472-2882,57,Female,Los Angeles,USA,12-10-2024,16-10-2024 12:51,,Electronics,3
+297,Sarah Brown,sarah.brown@mail.net,3211100109,35,Malee,Chicago,Germany,07-02-2020,11-07-2020 22:17,,Food,1
+626,John Brown,john.brown@mail.net,'+1 693 820 6942,50,Other,Phoenix,Australia,24-09-2021,12/25/2022 20:28,393.61,Food,4
+491,Jane Williams,jane.williams@test.org,046-555-1364,27,Male, San Diego ,Germanyq,16-09-2020,06-02-2021 22:06,750.59,Books,2
+765,Emily Jones,emily.jones@mail.net,(410) 386-3840,18,Female,Chicago,Germany,09-12-2022,08-01-2023 07:35,847.64,Electronics,5
+854,Peter Smith,peter.smith@mail.net,1716114607,26,Male,San Antonio,France,30-01-2025,10-02-2025 13:50,170.58,Food,3
+612,Jane Miller,jane.miller@example.com,(485) 344-0138,25,Other,San Diego,Franceq,09/21/2022,04-01-2023 03:26,760.01,Clothing,4
+330,John Brown,john.brown@mail.net,6877937856,60,Male,Chicago,India,03-05-2020,04/19/2025 05:16,521.44,Clothing,4
+437,John Williams,john.williams@example.com,821-628-8743,26,Female,,India,08-07-2023,06-09-2024 04:04,236.96,Home Goods,4
+136,Jane Smith,jane.smith@mail.net,4830314191#,37,Other,Chicago,Mexico,19-12-2024,27-01-2025 09:41,591.66,Sports,10
+981,Emily Brown,emily.brown@test.org,,34,Other,Phoenix,India,06/18/2024,29-06-2025 22:44,98.53,Home Goods,1
+347,Michael Wilson,michael.wilson@mail.net,'+1 391 772 0755,39,Otheer,Los Angeles,USAz,06-03-2025,05-05-2025 17:10,664.34,Sports,3
+138,Sarah Wilson,sarah.wilson@example.com,(847) 352-1284,46,Feemalee,Phoenix,USA,02/14/2022,23-01-2024 11:08,327.03,Electronics,4
+463,Peter Miller,peter.miller@mail.net,(139) 025-4150,25,Male,New York,France,18-05-2023,11/28/2023 14:04,662.16,Electronics,5
+27,Peter Wilson,,'+1 514 118 9533,23,Male,San Antonio,USA,10-10-2020,10/14/2021 10:10,213.89,Books,2
+754,D@vid Miller,david.millertest.org,'+1 734 798 4600#,40,Male,San Diego,Australia,09-08-2022,17-11-2022 20:19,393.35,Clothing,3
+469,Mary Jones,mary.jones@example.com,1867522052,,Female,Los Angeles,Australia,06-06-2021,22-07-2025 09:00,954.95,B00ks,5
+873,Peter Williams,,8683418690,67,Otheer,Phoenix,Canada,06/14/2024,04-02-2025 18:04,459.38,Food,3
+767,John Miller,john.millermail.net,3880716914,57,FEMALE,San Dieg0,Germany,26-08-2020,04-01-2021 04:48,893.27,Food,4
+180,David Miller,david.miller@test.org,(477) 226-4537,22,Male,San Antonio,Australia,01-08-2022,03/17/2024 17:45,484.71,Home Goods,2
+350,David Doe,david.doe@mail.net,025-679-4716,150,Male,Houston,Canada,05-03-2023,,10.73,Food,3
+77,Emily Smith,emily.smith@test.org,(762) 205-6923,36,Other,Philadelphia,USA,22-06-2020,21-01-2023 23:55,14.44,Electronics,3
+646,Sarah Smith,sarah.smith@mail.net,,42,Male,Ph0enix,Canada,23-05-2021,03-11-2023 12:24,607.4,Books,1
+791,Emily Williams,emily.williams@example.com,,24,MALE,San Antonio,UK,28-06-2025,07-03-2025 01:38,59.12,Food,1
+70,Jane Doe,jane.doe@example.com,'+1 277 959 9190,70,Other,Houston,Canada,01-09-2024,31-05-2025 08:57,181.51,Home Goods,1
+459,Sarah Jones,sarah.jones@test.org,279-206-4386,40,MALE,San Antonio,Mexico,28-04-2021,03-05-2025 05:07,786.06,Electronics,1
+989,David Davis,david.davis@example.com,192-622-8391,54,Other,San Antonio,Canada,15-01-2021,07-10-2021 11:30,274.36,Food,4
+56,Jane Miller,jane.miller@test.org,,25,Female,Los Angeles,Mexico,15-06-2023,07-07-2024 04:33,907.22,Electronics,3
+625,David Wilson,david.wilson@test.org,1962166545,25,Female,Houston,France,20-02-2025,06/18/2025 09:09,750.18,Food,1
+925,Emily Davis,emily.davis@mail.net,'+1 274 165 9754,38,Other,Philadelphia,Canada,22-04-2020,07/19/2024 22:21,543.79,Books,2
+540,Jane Davis,jane.davis@test.org,(797) 632-7893,42,Male,New York,Mexico,02-06-2022,09-03-2024 00:46,663.75,Books,2
+627,David Brown,david.brown@mail.net,462-794-6084,30,Male,Philadelphia,India,14-10-2020,16-08-2023 15:15,513.6,Food,0
+28,Sarah Jones,sarah.jones@test.org,,29,FEMALE,Philadelphia,Australia,03-09-2023,20-06-2025 01:03,690.82,Food,4
+160,Michael Wilson,michael.wilson@test.org,'+1 340 996 3953,49,Other,Phoenix,Mexico,12-07-2022,22-12-2023 23:59,619.39,Electronics,1
+600,Peter Williams,peter.williamsexample.com,,37,Female,New York,Germany,16-05-2025,,245.09,Clothing,1
+400,David Wilson,david.wilson@example.com,992-157-0004,26,Other,San Diego,Mexico,08/20/2020,31-10-2023 19:13,63.98,Sports,4
+175,David Williams,,101-582-6049,,Male, Philadelphia ,Germany,20-02-2024,15-05-2025 16:37,581.79,Electronics,2
+814,Emily Smith,emily.smith@example.com,240-759-5356,25,Male,San Antonio,Mexico,04/26/2022,05/20/2023 03:09,995.63,Books,1
+144,Peter Wilson,peter.wilsonexample.com,7989538561,56,Female,Houston,Mexico,22-04-2023,13-11-2023 08:36,194.89,Food,3
+910,David Wilson,david.wilson@test.org,039-083-9508,52,Male,San Diego,USA,05/31/2020,10-10-2021 04:14,581.92,Sports,1
+287,Emily Doe,emily.doe@test.org,118-568-3465,32,Male,Phoenix,Germany,04/25/2021,25-09-2022 10:49,203.55,Food,3
+651,Mary Miller,mary.miller@test.org,'+1 086 381 2080,49,FEMALE,Chicago,Germany,29-04-2025,28-05-2025 20:33,129.73,Food,2
+475,David Wilson,david.wilson@example.com,,48,Male,Philadelphia,Mexico,07/23/2021,05-12-2022 08:26,39.57,Electronics,3
+467,Mary Wilson,mary.wilson@mail.net,'+1 363 386 5890,20,FEMALE,Philadelphia,Australia,31-01-2025,10-06-2025 11:34,687.46,Clothing,1
+785,Jane Smith,jane.smith@test.org,'+1 656 639 4252,18,Other,Los Angeles,Germany,18-04-2024,,646.72,Sports,5
+74,Sarah Miller,sarah.miller@mail.net,109-264-1011,70,Male,Phoenix,USA,25-07-2020,21-03-2024 03:00,890.71,Sports,4
+631,Mary Miller,mary.miller@example.com,'+1 564 809 3502,70,Male,San Diego,India,03-02-2021,24-03-2022 17:48,192.88,Home Goods,5
+15,John Smith,john.smith@test.org,'+1 116 510 3636,62,Male,San Antonio,France,20-05-2023,07-04-2023 07:16,591.82,Home Goods,0
+264,David Miller,david.miller@mail.net,(703) 333-7078!,56,Female,New York,India,02/22/2024,,219.81,Clothing,2
+613,John Brown,john.brown@mail.net,449-521-6961,34,Other,Houston,Germany,26-04-2022,13-06-2023 14:55,884.73,Home Goods,1
+43,Michael Davis,michael.davis@mail.net,513429024,58,Female,San Diego,USAx,07/23/2022,06-11-2024 04:06,324.24,Electronics,4
+151,  Mary Williams  ,mary.williams@mail.net,'+1 330 280 5639,60,Female,San Dieg0,Germany,01-09-2020,27-07-2023 10:01,288.87,Home Goods,2
+813,Emily Davis,emily.davis@mail.net,'+1 942 226 1996,64,Other,Chicago,Germany,12/30/2022,05-10-2024 16:38,772.51,Food,1
+878,M@ry Doe,mary.doe@example.com,'+1 434 003 3423!,38,Male,San Antonio,Mexico,25-08-2020,26-12-2021 17:04,188.91,Clothing,5
+953,Jane Davis,jane.davis@mail.net,'+1 566 415 0819,38,Male,Philadelphia,Mexico,11-01-2020,05-04-2024 10:56,949.8,Sports,4
+582,Jane Jones,jane.jones@mail.net,(600) 193-1077,67,male,San Diego,Germany,03-05-2020,24-09-2020 21:54,275.58,Clothing,5
+591,Mich@el Wilson,michael.wilson@test.org,,50,Other, New York ,India,08/19/2024,25-05-2025 20:24,472.15,Electronics,1
+836,Mary Wilson,mary.wilson@test.org,4007564369,,Other,,Australia,21-04-2021,17-05-2021 23:42,581.16,Food,3
+211,Sarah Williams,sarah.williams@test.org,,64,Male,New York,India,06/30/2024,07/16/2025 16:00,566.29,Home Goods,5
+635,David Jones,david.jones@mail.net,(395) 602-4727,45,Other,San Diego,USA,07-09-2024,04-07-2025 23:08,159.09,Books,5
+906,Emily Miller,emily.miller@test.org,(888) 729-8157,57,Other,Houston,USA,07-08-2023,12-03-2024 06:57,314.35,Clothing,5
+372,Emily Doe,,(331) 787-5210,63,Male,Chicago,India,01-01-2021,,105.37,Books,4
+277,John Miller,john.miller@mail.net,1398816467,41,Female,New York,Mexico,22-08-2020,01/31/2024 03:07,534.61,Food,1
+645,Emily Davis,emily.davis@example.com,721-068-8320,48,Male,Chicago,Germany,30-08-2020,11-08-2022 22:29,758.87,Electronics,1
+757,Sarah Jones,sarah.jones@example.com,9643232496,20,Male,Philadelphia,India,21-08-2024,12-01-2024 11:05,680.99,Food,4
+684,John Jones,john.jones@test.org,(063) 763-7785,22,Other,Phoenix,Narnia,11-08-2022,11/13/2023 02:45,717.99,Sports,5
+564,Peter Williams,peter.williams@mail.net,5574209694,19,Male,Chicago,Australia,11-03-2024,25-01-2025 05:44,538.53,Clothing,3
+201,Emily Miller,emily.miller@mail.net,'+1 307 855 4478,62,Female,,Australia,22-09-2020,04-07-2025 22:13,321.99,Clothing,1
+764,Emily Brown,emily.brown@test.org,589118944,27,Male,Phoenix,Germany,07-03-2023,01-05-2025 22:55,977.99,Food,5
+874,Sarah Doe,sarah.doe@test.org,3701360121,20,Female,San Diego,USA,03-03-2025,20-06-2025 21:40,896.22,Food,2
+996,Michael Davis,michael.davis@mail.net,(587) 140-5760,18,Male,Los Angeles,USA,03-06-2024,07/31/2024 10:38,597.68,Books,1
+773,Emily Brown,emily.brown@test.org,(905) 234-2151,35,Other,Houston,Australia,16-01-2025,19-06-2025 13:50,336.73,Food,2
+163,Sarah Smith,sarah.smith@mail.net,(963) 890-2173,,Female,Houston,France,20-06-2020,,,Electronics,4
+410,John Miller,john.miller@test.org,(393) 613-3425,44,Malee,New York,Mexico,04-10-2021,04/14/2024 03:01,720.44,Clothing,5
+557,John Williams,john.williams@mail.net,3840331222,48,Male,San Diego,Mexico,08/19/2023,23-11-2023 01:55,703.17,Clothing,2
+959,Mary Wilson,mary.wilson@mail.net,(133) 682-0774,47,Other,Houston,USA,05-11-2022,11/29/2023 04:17,390.1,Clothing,4
+172,Michael Jones,michael.jones@example.com,'+1 774 141 9233,,Female,Philadelphia,Germanyx,07-11-2023,17-05-2024 22:34,834.02,Books,4
+724,Mary Smith,mary.smith@example.com,(182) 238-4075,54,Other,Philadelphia,Mexico,12-04-2021,11-05-2025 03:21,133.43,Electronics,5
+577,Michael Brown,michael.brown@mail.net,2773491821,,Male,,Germany,01/30/2022,17-08-2022 21:04,506.63,Electronics,4
+129,Sarah Brown,sarah.brown@example.com,(179) 674-9007,35,other,Chicago,USA,12-11-2020,07-01-2022 09:52,855.77,Electronics,2
+834,John Williams,john.williams@example.com,(765) 328-7758,46,Female,Houston,USA,03/27/2024,02-04-2025 12:42,984.72,Sports,4
+103,John Doe,john.doe@test.org,5431620237,38,Female,San Antonio,Germany,12-11-2021,13-04-2022 13:01,826.23,Books,2
+172,Michael Jones,michael.jones@example.com,'+1 774 141 9233,,Female,Philadelphia,Germanyx,07-11-2023,17-05-2024 22:34,834.02,Books,4
+551,John Doe,john.doe@mail.net,(981) 009-0700,31,Other,New York,Canada,07/28/2024,08-06-2025 04:50,813.53,Home Goods,2
+493,Sarah Jones,sarah.jones@test.org,(140) 043-1555,58,Otheer,San Dieg0,France,08-12-2023,10-08-2024 12:22,268.73,Electronics,4
+24,  David Brown  ,david.brown@test.org,(557) 084-4832,31,Other,Los Angeles,India,06-02-2022,13-06-2024 05:52,810.14,Food,4
+788,Michael Brown,michael.brown@test.org,412-815-1628,50,Male,Philadelphia,USA,02/14/2023,22-01-2025 12:57,238.68,Electronics,2
+693,Emily Williams,emily.williams@mail.net,047-747-3631,50,Other,Houston,UK,01/17/2020,12/17/2021 05:46,858.94,Electronics,5
+254,Sarah Doe,sarah.doe@mail.net,679-055-4580,56,Male,New York,UK,13-12-2021,11-12-2022 04:18,441.66,Sports,5
+736,David Smith,david.smith@example.com,030-393-4964,,Female,Los Angeles,Germany,01-01-2024,04-12-2024 04:59,50000,Electronics,3
+622,Peter Doe,peter.doe@example.com,(234) 742-4303,64,Other,New York,USA,09/28/2020,27-10-2023 03:44,,Books,5
+516,David Jones,david.jones@example.com,3138066486,19,Male,Chicago,France,03/17/2020,,267.9,Books,4
+505,Jane Jones,jane.jones@mail.net,893166129,22,MALE,Houston,Canada,07-12-2022,24-10-2022 22:45,34.85,Clothing,2
+470,Mary Doe,mary.doe@example.com,3055735580,23,Feemalee,Los Angeles,UK,01-10-2024,03-02-2025 19:37,518.27,Food,1
+486,John Miller,john.miller@mail.net,067-078-9463,43,other,Houston,Australia,18-01-2025,05/18/2025 08:08,353.59,Home Goods,3
+504,Jane Miller,jane.miller@mail.net,4722096372,60,Other,Phoenix,UK,06-07-2023,12-05-2024 03:45,564.43,Books,5
+735,David Wilson,david.wilson@example.com,738-249-4375,56,Other,Chicago,USA,20-11-2021,15-09-2022 09:29,875.4,Home Goods,4
+558,David Jones,david.jones@mail.net,2349177040,59,Other,Los Angeles,Germany,24-02-2020,12-03-2025 09:28,373.25,Electronics,2
+905,Peter Smith,,'+1 549 648 8996,58,Other,New York,Germany,04-06-2024,23-06-2024 04:42,170.03,Home Goods,4
+969,Michael Doe,michael.doe@test.org,960212842,41,Male,Philadelphia,France,07/21/2023,,315,Home Goods,2
+849,Emily Wilson,emily.wilsonexample.com,(838) 518-7874,23,Male,San Diego,USA,03-05-2022,12-03-2023 13:46,477.23,Food,2
+412,Peter Williams,peter.williams@example.com,'+1 281 806 5209,35,Male,,UK,26-03-2025,16-07-2025 10:55,362.9,Books,1
+318,David Jones,david.jones@test.org,'+1 164 572 5432,34,Male,Los Angeles,Germany,30-12-2023,08-08-2024 13:42,627.92,Sports,4
+770,Emily Davis,,6698987278,66,Male,San Antonio,Germany,20-04-2020,10-11-2023 10:56,37.51,Electronics,1
+203,  Mary Brown  ,mary.brown@test.org,'+1 013 931 0646,19,Female,Phoenix,UK,23-02-2020,12-01-2024 18:59,810.29,Clothing,3
+800,Jane Smith,jane.smith@mail.net,'+1 718 081 8520,59,Other,,India,09-06-2023,08-11-2024 04:43,717.47,Home Goods,3
+653,Sarah Davis,sarah.davis@mail.net,(289) 089-3362,49,Malee,Houston,France,19-08-2023,04-03-2025 19:06,738.18,Home Goods,3
+154,Jane Smith,jane.smith@mail.net,'+1 371 554 6051,51,Malee,Los Angeles,France,01/24/2020,,630.13,Sports,2
+403,Jane Miller,jane.miller@test.org,5961235765,27,other,Chicago,Australia,14-11-2022,13-05-2023 21:42,413.4,Electronics,3
+457,Sarah Wilson,sarah.wilson@mail.net,4408447858,28,Female,Los Angeles,Mexico,08/16/2022,07/27/2025 23:02,456.18,Clothing,1
+60,  John Jones  ,john.jones@test.org,292719700,70,Male,San Antonio,USA,04/29/2024,09-02-2025 07:48,977.47,Clothing,5
+265,John Jones,john.jones@test.org,2028950324,41,Female,San Antonio,UKx,06/14/2025,15-07-2025 18:31,165.82,Food,1
+78,John Smith,john.smith@mail.net,(567) 582-1111,30,OTHER,Houston,India,07/21/2021,18-05-2022 19:22,269.71,Sports,1
+898,Sarah Brown,sarah.brown@example.com,545-825-3139,70,Male,Ph0enix,Canada,11-12-2022,09/28/2024 16:39,428.66,Food,10
+858,Jane Brown,jane.brown@mail.net,523-839-9390,69,Other,Chicago,UK,22-09-2021,07-07-2025 09:32,633.28,Electronics,3
+730,Jane Davis,jane.davis@mail.net,3425726378,65,Female,San Antonio,Germany,23-02-2021,10-02-2024 10:58,736.7,Food,5
+383,John Williams,john.williams@example.com,677-774-9077,28,OTHER,San Diego,India,15-10-2021,26-09-2023 21:05,820.66,Electronics,1
+913,Jane Jones,jane.jones@example.com,417-804-5219!,29,Other,Phoenix,Mexico,10-04-2025,05-04-2025 21:28,-10,Home Goods,5
+914,Sarah Wilson,,(157) 788-9190,60,Female,Philadelphia,Germany,10-09-2022,18-08-2024 15:47,673.61,Home Goods,4
+242,David Smith,david.smith@mail.net,'+1 347 915 4021,70,Male,New York,France,18-09-2021,09-04-2022 10:57,558.48,Food,3
+715,J@ne Jones,jane.jones@example.com,(368) 647-4643,23,Male,San Diego,Canada,03/24/2024,02-04-2024 08:39,516.3,Clothing,1
+649,Mary Brown,mary.brown@test.org,'+1 072 873 9704,59,Other,Los Angeles,Canada,22-04-2021,08-11-2024 07:46,385.28,Electronics,2
+340,Emily Davis,emily.davis@test.org,062-495-8291,52,Other,Houston,Germany,01-01-2021,28-02-2024 10:45,792.61,Electronics,1
+1,Michael Davis,michael.davis@example.com,,19,Other,San Diego,UK,03-03-2025,20-06-2025 23:32,558.64,Books,3
+960,Jane Doe,jane.doe@test.org,131-650-9718,51,Female,San Diego,France,27-06-2023,27-04-2025 09:03,632.86,Clothing,1
+177,Emily Miller,emily.miller@test.org,676-268-3664,57,Male,San Dieg0,Mexico,04-09-2021,11-04-2024 20:24,647.96,Books,1
+586,David Davis,david.davis@test.org,'+1 940 553 2905,30,Female,New York,India,02-04-2021,10-10-2021 02:15,940.56,Electronics,1
+393,Sarah Miller,sarah.miller@test.org,7128037341,18,Female,,Australia,12-04-2021,02-09-2024 17:45,508.72,Home Goods,4
+497,Sarah Davis,sarah.davis@example.com,8008350036,22,Other, Philadelphia ,France,10-02-2022,02-10-2024 21:34,999.66,Clothing,4
+258,Sarah Doe,sarah.doe@test.org,'+1 491 477 7118,41,Female,San Antonio,Mexico,19-05-2021,11/19/2021 16:13,419.14,Electronics,1
+748,Sarah Doe,sarah.doe@example.com,102-173-1898,21,female,Philadelphia,Mexico,04/16/2022,22-12-2023 17:08,,Sports,2
+71,Jane Williams,jane.williams@example.com,(205) 301-3850,20,Female,Los Angeles,France,07/17/2024,,234.26,Electronics,4
+67,Emily Doe,emily.doe@mail.net,,62,other,Chicago,USA,02-09-2021,21-04-2023 10:02,919.27,Home Goods,1
+775,Peter Davis,peter.davis@example.com,652-064-9880,40,Female,Chicago,Mexico,26-05-2023,09-01-2024 02:49,737.36,Home Goods,1
+278,Peter Jones,peter.jones@example.coom,'+1 372 509 8461,67,Other,San Diego,Mexico,18-12-2022,22-05-2025 03:01,828.94,Home Goods,5
+512,Sarah Smith,sarah.smith@test.org,(749) 738-1896,200,Female,Phoenix,USA,09-01-2021,,947.1,Food,4
+820,Mary Doe,mary.doe@mail.net,(859) 680-0856,68,Malee, Houston ,Mexico,12/21/2022,20-04-2024 19:20,602.5,Books,3
+496,John Miller,john.miller@test.org,953-123-3212,58,Female,New York,Germany,15-02-2024,04-12-2025 11:19,619.73,Clothing,5
+12,David Doe,david.doe@mail.net,(197) 564-2525,50,Female,Philadelphia,Germany,03-05-2021,19-04-2024 17:09,352.17,Books,5
+373,Peter Jones,peter.jones@mail.net,(746) 348-0177,25,Female,Houston,USA,01-10-2023,,872.79,Food,10
+59,David Smith,david.smith@example.com,3004475897,44,Other,Chicago,UK,27-09-2020,19-04-2025 16:25,,Clothing,5
+426,John Jones,john.jones@mail.net,(534) 012-0826,64,Other,Philadelphia,USA,04-07-2020,23-03-2021 17:13,468.2,Electronics,4
+280,Michael Williams,michael.williams@example.com,779-496-8992,65,Male,Houston,France,05-02-2022,10-07-2022 18:03,245.4,Electronics,1
+727,Peter Jones,peter.jones@test.org,(509) 889-6213,150,Feemalee,Philadelphia,Canada,21-10-2024,,330.86,Sports,5
+293,Emily Doe,emily.doe@test.org,(046) 756-5574,41,MALE,Los Angeles,USA,13-02-2025,25-06-2025 06:43,398.93,Food,4
+209,Mary Davis,mary.davis@mail.net,,60a,Male,San Antonio,France,04-01-2022,16-07-2023 18:42,50000,Food,1
+404,Sarah Brown,sarah.brown@mail.net,(775) 994-1391,43,Female,Chicago,France,05-09-2020,12/13/2020 04:05,692.71,Sports,6
+398,Emily Williams,emily.williams@test.org,6605245384,43,Other,Houston,Canada,25-03-2023,19-06-2024 11:20,807.98,Clothing,4
+62,Sarah Wilson,sarah.wilson@example.com,578164947,54,Other,San Diego,Australia,30-05-2021,25-06-2021 23:50,50000,Home Goods,5
+342,David Brown,david.brown@test.org,419-995-6731,30,Female,,Germany,02/27/2022,,482.7,Electronics,5
+620,Sarah Williams,sarah.williams@test.org,(068) 787-4532,48,FEMALE,Los Angeles,Australia,13-04-2024,27-06-2024 11:41,225.43,Electronics,2
+292,Michael Smith,michael.smith@mail.net,(794) 433-4743,40,Female,Chicago,India,25-10-2020,08/20/2023 17:28,76.55,Books,1
+302,John Williams,john.williams@example.com,170-337-1494,43,Female,New York,UK,31-05-2024,18-09-2024 16:26,706.76,Clothing,1
+344,Sarah Smith,sarah.smith@example.com,(314) 616-0956,,Male,New York,Canada,19-01-2021,23-11-2023 07:59,912.71,Home Goods,3
+237,Mary Miller,mary.miller@mail.net,,69,Other,Philadelphia,Australia,20-10-2022,01-10-2023 21:15,614.91,Home Goods,4
+752,Sarah Wilson,sarah.wilson@test.org,(671) 355-5524,35,Male,Chicago,Australia,25-03-2022,05/16/2023 20:12,642.04,Books,5
+392,Mary Doe,mary.doe@mail.net,,56,FEMALE,Los Angeles,India,23-10-2022,24-09-2023 22:48,365.79,Books,1
+747,Michael Davis,michael.davis@example.com,'+1 445 634 8925,34,Male,Chicago,USA,01-06-2022,27-07-2025 17:17,553.56,Clothing,3
+65,Michael Miller,michael.miller@mail.net,993389652,59,Female,Philadelphia,Australia,22-02-2024,03-04-2025 00:41,50000,Books,1
+31,Mary Doe,mary.doe@test.org,392-510-7286,55,Female,San Diego,India,01-10-2022,02/15/2023 19:09,671.88,Home Goods,2
+659,Jane Jones,jane.jones@mail.net,'+1 752 835 6790,64,Other,Houston,France,04/15/2020,22-06-2024 04:13,830.3,Books,2
+349,Sarah Doe,sarah.doe@example.com,'+1 022 919 0097,27,Female,Los Angeles,Canada,08-12-2024,,121.69,Food,5
+369,John Brown,john.brown@example.com,8658591499,66,Female,San Antonio,Canada,03/31/2021,30-05-2024 06:42,742.34,Electronics,1
+431,Peter Brown,peter.brown@test.org,(158) 361-7585,58,Other,,Germany,15-02-2020,05-10-2025 17:30,866.55,Food,2
+594,Michael Williams,michael.williams@example.com,'+1 061 871 0937,,Other,Philadelphia,USA,30-01-2021,14-02-2023 11:04,627.14,Clothing,3
+546,Sarah Williams,sarah.williams@test.org,572761481,68,Other, Philadelphia ,France,06-07-2020,10-04-2024 09:18,300.32,Books,0
+171,David Doe,david.doe@example.com,(072) 380-5954a,41,Male,Houston,USA,22-12-2021,07/13/2025 02:51,752.18,Books,6
+464,Emily Jones,emily.jones@mail.net,7708423076,66,MALE,New York,USA,04-02-2021,14-12-2021 17:21,,Home Goods,4
+562,David Jones,david.jones@test.org,'+1 398 165 6033,28,Male,New York,Mexico,30-06-2022,03-09-2022 15:15,736.72,Electronics,2
+541,Michael Doe,michael.doe@test.org,9141365629,21,Female,New York,USA,03-10-2024,19-03-2025 04:12,889.47,Sports,3
+856,Mary Brown,mary.brown@mail.net,(981) 586-3756,24,Male,,France,29-11-2020,11/30/2021 06:15,588.23,Electronics,5
+44,Emily Doe,emily.doe@test.org,'+1 743 976 8550,61,Female,New York,Mexico,12-12-2023,24-11-2024 15:54,603.37,Clothing,5
+718,Sarah Wilson,sarah.wilson@mail.net,800-919-9059,70,Other,Chicago,India,12/16/2020,06-10-2025 17:05,43.93,B00ks,1
+885,Peter Brown,peter.brown@mail.net,7969795663,37,Male,Phoenix,France,11-09-2024,12/17/2024 13:08,878.91,Sports,3
+495,Jane Doe,jane.doe@mail.net,'+1 910 059 3666,65,Male,San Antonio,USA,25-09-2020,19-04-2021 06:54,994.28,Food,1
+646,Sarah Smith,sarah.smith@mail.net,,42,Male,Ph0enix,Canada,23-05-2021,03-11-2023 12:24,607.4,Books,1
+933,John Smith,john.smith@test.org,140-818-6869,48,Other,Phoenix,Atlantis,18-02-2023,22-11-2024 16:47,612.81,Home Goods,3
+902,Sarah Miller,sarah.miller@test.org,(540) 059-4552,52,Female,San Diego,Germany,12-01-2024,07-07-2025 11:13,197.98,Sports,2
+532,David Miller,david.miller@example.com,7083883179,37,Female,,Narnia,25-06-2020,,517.44,Clothing,2
+8,Mary Wilson,mary.wilson@test.org,(169) 748-4031,44,Other,Houston,France,08-12-2021,01-04-2022 15:16,67.36,Electronics,2
+476,Jane Davis,jane.davis@test.org,(484) 346-9586,61,Male,San Diego,Mexico,09-09-2021,15-06-2025 01:06,,Home Goods,5
+707,Jane Brown,jane.brown@test.org,(440) 406-4803,24,male,Chicago,UK,21-11-2022,,120.27,Sports,5
+695,Mary Jones,mary.jones@test.org,410-413-0180,39,Male,San Diego,Mexico,21-08-2024,17-04-2025 07:39,483.77,F00d,2
+241,Jane Miller,jane.miller@example.com,'+1 434 824 7552,40,Male,Los Angeles,Canada,09-10-2023,08-01-2025 03:22,173.82,Books,5
+218,John Brown,john.brown@example.com,,41,FEMALE,Philadelphia,France,02/21/2021,15-05-2021 09:34,883.51,Cl0thing,5
+538,Mary Miller,mary.miller@example.com,(620) 921-3859,57,Female,Philadelphia,Mexico,08-10-2021,05-06-2023 10:24,551.34,Books,5
+976,John Miller,john.miller@test.org,2111706418,67,Other,Philadelphia,Mexico,19-03-2025,18-04-2025 12:26,195.98,Home Goods,5
+518,Sarah Doe,sarah.doe@example.com,1242125153,23,Male,Chicago,Canada,28-09-2024,08-10-2024 16:50,169.79,Sports,1
+300,John Davis,john.davis@example.com,'+1 606 623 0613,31,Male,,UK,11/30/2023,16-01-2025 09:26,794.81,Books,1
+453,Mary Miller,,'+1 616 458 8068,65,FEMALE,Los Angeles,France,11-03-2021,21-04-2021 17:19,939.8,Sports,2
+36,Michael Wilson,michael.wilson@example.com,(647) 594-2536,22,Male,Philadelphia,Canada,21-07-2025,26-07-2025 07:17,842.13,Home Goods,1
+501,Emily Smith,emily.smith@example.com,'+1 440 798 2117,55,Other,Chicago,Canada,18-02-2024,27-10-2024 22:13,419.33,Sports,5
+449,Mary Wilson,mary.wilson@test.org,7272392793,38,Other,Chicago,Mexico,01-04-2024,03/22/2025 08:07,336.82,Food,1
+217,Jane Miller,jane.millerexample.com,6583762888,27,Female,,Australia,06-03-2022,10/14/2024 11:36,103.81,Electronics,3
+30,  David Smith  ,david.smith@test.org,071-233-6052,31,Other,Chicago,France,01-05-2021,12/30/2022 08:00,900.96,Sports,5
+50,John Wilson,john.wilson@mail.net,'+1 729 740 1208,55,Other, New York ,UK,06-09-2023,01-09-2024 13:48,577.93,Electronics,3
+23,Sarah Wilson,sarah.wilson@mail.net,567-706-8043,29,Female,Los Angeles,Germany,21-04-2020,15-04-2025 23:41,920.99,Electronics,1
+492,Sarah Smith,sarah.smith@mail.net,832290461,47,Other,Chicago,Canada,07-03-2020,05-11-2023 22:18,186.6,Sports,3
+641,David Williams,david.williams@test.org,748-362-4894,54,Male,Chicago,India,03-02-2023,08-07-2024 18:24,273.77,Food,4
+188,Mary Miller,mary.miller@mail.net,915-496-3860,40,OTHER,New York,Canada,26-08-2022,06-03-2025 02:34,334.3,Food,1
+656,Emily Jones,emily.jones@mail.net,'+1 738 657 7738,25,Male,Phoenix,USA,27-01-2025,27-07-2025 05:25,296.25,Home Goods,5
+190,Peter Brown,peter.brown@mail.net,977-820-5408,26,male,Philadelphia,Mexico,10-11-2021,28-08-2022 13:29,831.95,Sports,3
+193,Emily Williams,emily.williams@test.org,664-543-9518,56,Male,Phoenix,Germany,22-01-2021,07/26/2024 09:21,349.82,Home Goods,2
+980,J@ne Willi@ms,jane.williams@mail.net,(499) 944-6231,62,Male,Phoenix,UK,04/29/2024,01/30/2025 05:02,26.6,Food,3
+114,Sarah Brown,sarah.brown@example.com,,65,Male,Phoenix,India,08/22/2023,05/16/2024 22:27,627.38,Books,2
+751,Jane Smith,jane.smith@test.org,,30,Male,New York,Australia,28-01-2023,09-11-2023 15:13,453.03,Electronics,5
+899,Peter Davis,peter.davis@example.com,(849) 579-8441,31,Male, San Diego ,Germany,29-11-2022,01/24/2023 20:43,198.59,Electronics,2
+883,Jane Doe,jane.doe@test.org,(763) 663-7044,63,Malee,Philadelphia,Australia,11/29/2020,03-05-2023 14:38,396.28,Clothing,5
+704,Emily Doe,emily.doeexample.com,'+1 670 559 3709,56,Other,Los Angeles,India,26-06-2020,23-07-2025 09:34,503.5,Food,2
+986,David Brown,david.brown@example.com,,61,Other,San Antonio,UK,09-04-2025,11-04-2025 15:26,562.97,Electronics,2
+303,Sarah Doe,sarah.doe@mail.net,'+1 420 852 3916,37,Female,Los Angeles,USA,04-03-2020,25-07-2024 09:53,433.22,Food,1
+590,Mary Smith,mary.smith@mail.net,306-473-8333,24,Male,Chicago,Germany,12-07-2020,04/28/2022 05:58,,Sports,2
+219,Peter Brown,peter.brown@example.com,476-911-2216,39,Other,Phoenix,Francez,15-07-2022,16-02-2023 01:31,54.32,Clothing,2
+63,Peter Wilson,peter.wilsonexample.com,'+1 282 560 3530,55,MALE,San Antonio,USA,21-05-2021,03/22/2025 18:59,998.51,Electronics,3
+11,John Jones,john.jones@mail.net,516206174,48,Female,Phoenix,Germany,02-06-2025,08-05-2025 21:41,423.95,Clothing,5
+260,Jane Williams,jane.williams@mail.net,'+1 296 648 8192,18,female,New York,France,22-04-2024,10-11-2024 09:18,280.34,Food,1
+552,John Jones,john.jonesexample.com,(567) 401-0110,47a,Other,San Diego,USA,07-01-2025,23-07-2025 23:01,86.97,Food,4
+967,John Brown,john.brown@example.com,(179) 031-7961,,Female,San Diego,Australia,12/15/2020,08-12-2023 01:37,801.23,Electronics,5
+54,Emily Miller,emily.miller@test.org,(346) 801-8580,65,Other,Philadelphia,Canada,10-05-2023,08-12-2023 19:00,963.25,Electronics,2
+354,S@r@h Miller,,(290) 592-3942,69,Male,Philadelphia,France,03/14/2020,03/20/2025 13:11,441.16,Books,3
+776,Sarah Wilson,sarah.wilson@test.org,(435) 189-7986,55,Other,San Antonio,Mexico,13-03-2021,04/18/2021 02:09,724.64,Home Goods,5
+228,Mary Williams,mary.williams@example.com,'+1 661 592 2795,21,Female,Los Angeles,Germany,22-04-2023,31-10-2024 12:39,952.28,Home Goods,5
+531,  Emily Smith  ,emily.smith@test.org,5836101212,29,OTHER,New York,UK,07/14/2023,01-12-2024 07:46,743.15,Home Goods,3
+802,Emily Brown,,'+1 929 071 1385,49,Female,,India,29-04-2021,15-12-2023 14:35,89.2,Books,4
+674,Jane Wilson,jane.wilson@test.org,1782562604,56,Female, Phoenix ,Germany,09/21/2021,16-10-2023 04:29,,Books,2
+301,Jane Smith,jane.smith@example.com,416-725-1686,32,Other,Chicago,Germany,18-01-2025,04-07-2025 00:59,380.09,Electronics,3
+281,David Doe,david.doe@example.coom,231-823-5645,47,Female,San Diego,Canada,12-01-2024,06-03-2025 13:03,754.24,Electronics,1
+979,Michael Miller,michael.miller@mail.net,'+1 765 495 8290,58,Feemalee,Phoenix,France,05-03-2020,24-12-2020 16:41,224.8,Sports,4
+32,Michael Doe,michael.doe@test.org,3808142154,60,Male,Los Angeles,Canada,15-11-2020,04-07-2023 04:44,261.1,Clothing,4
+603,Michael Brown,michael.brown@example.com,4636163349,19,Female,Los Angeles,India,07/22/2020,30-06-2025 12:55,634.07,Home Goods,2
+112,John Miller,john.miller@example.com,133880790,42,Male,Chicag0,India,10-05-2022,29-06-2024 12:11,,Books,2
+109,Peter Wilson,peter.wilson@test.org,629-205-0173,67,Otheer,Chicago,Mexico,30-09-2023,27-07-2024 22:36,517.35,Home Goods,5
+244,Jane Davis,jane.davis@test.org,068-530-4576,64,Female,Houston,Mexico,29-08-2024,01-12-2024 10:19,109.46,Clothing,2
+576,  Jane Doe  ,jane.doe@test.org,187-517-2459,29,male,San Antonio,Australia,06-10-2021,06-04-2023 23:32,298.58,Home Goods,5
+937,Sarah Miller,sarah.miller@mail.net,'+1 452 929 3051,34,Other,Phoenix,USA,22-01-2025,06-02-2025 11:05,365.9,Home Goods,1
+790,Mary Davis,mary.davis@mail.net,'+1 596 814 2738,43,Female,Chicago,Australia,02-07-2024,31-03-2025 01:36,707.2,Food,2
+366,Michael Smith,michael.smith@mail.net,471-505-6404,52,Male,Los Angeles,Canada,09-05-2020,08-07-2020 18:33,118.77,Books,3
+194,David Wilson,david.wilson@test.org,8806708758,41,Male,New York,Germany,17-04-2025,23-05-2025 08:56,354.95,Electronics,4
+592,Michael Smith,michael.smith@example.com,1797885867,25,Male,Houston,France,05-03-2024,08-12-2024 00:51,53.99,B00ks,1
+841,Emily Smith,emily.smith@test.org,(921) 463-8638,67,male,San Antonio,France,03-03-2025,06/29/2025 05:36,953.21,Food,5
+131,Emily Smith,emily.smith@test.org,'+1 389 986 1835,18,Male,San Diego,USA,25-07-2022,22-01-2025 23:03,173.24,Home Goods,3
+421,Michael Jones,michael.jones@mail.net,(411) 624-1774,54,Male,Chicag0,India,03-11-2023,27-04-2024 01:29,568.72,Food,3
+489,David Wilson,david.wilson@test.org,(525) 994-5442,51,Other,Philadelphia,Mexico,08-12-2023,17-12-2023 17:44,471.21,Home Goods,3
+740,Michael Doe,michael.doe@example.com,'+1 814 017 2545,44,Other, New York ,Mexicoq,20-10-2022,15-02-2024 06:33,898.45,Books,5
+161,Emily Doe,emily.doe@test.org,394-654-5215,70,Female,San Diego,Australia,08/16/2020,06-10-2024 03:39,288.87,Home Goods,2
+73,Sarah Doe,sarah.doe@example.com,329-062-2772,65,Male,New York,India,17-07-2024,03-06-2025 12:23,900.36,Electronics,5
+648,Sarah Davis,sarah.davis@example.com,922645056,53,Other,Los Angeles,Australia,19-02-2020,21-03-2024 17:08,805.64,Electronics,3
+958,Jane Jones,jane.jones@test.org,200-902-7877a,53,Male,San Diego,France,05/17/2025,28-05-2025 19:21,628.66,Food,5
+395,Emily Smith,emily.smith@mail.net,279-524-7194,41,other,San Diego,India,19-07-2025,24-07-2025 10:16,719.52,B00ks,4
+563,Peter Williams,peter.williams@test.org,161-739-4372,37,Other,Philadelphia,India,09/26/2021,25-01-2024 03:33,209.68,Clothing,1
+819,Mary Miller,mary.miller@example.com,4303917067,29,Male,New York,India,09-06-2021,23-09-2024 12:27,556.56,Books,3
+124,Peter Williams,peter.williams@mail.net,7235458605,55,Male,New York,USA,02-09-2022,,588.29,Home Goods,5
+118,Jane Smith,jane.smith@example.com,287-649-6173,55,Male,Chicago,India,21-10-2023,02-03-2024 06:42,463.88,Clothing,3
+286,Michael Doe,michael.doe@test.org,,62,Female,,Mexico,21-08-2023,05-12-2023 00:21,693.9,Clothing,4
+230,Emily Wilson,emily.wilson@example.com,1644819471,27,Female,Philadelphia,UK,21-08-2020,19-10-2022 02:18,271.76,Books,5
+99,Jane Smith,jane.smithtest.org,7239561128,42,Male,Chicago,UK,29-09-2023,23-07-2024 20:28,505.26,Home Goods,5
+55,Sarah Miller,sarah.miller@mail.net,(438) 443-2920,40,Other,Houston,Germany,07-10-2020,06-06-2021 07:40,373.97,Electr0nics,2
+329,Mary Brown,mary.browntest.org,,24,Other,New York,France,04/29/2021,08-10-2023 07:11,906.4,Food,4
+101,David Williams,david.williams@mail.net,(283) 966-1976,53,Female,Chicago,Canada,04-12-2021,01-03-2022 20:42,141.17,Clothing,4
+11,John Jones,john.jones@mail.net,516206174,48,Female,Phoenix,Germany,02-06-2025,08-05-2025 21:41,423.95,Clothing,5
+799,Emily Doe,emily.doe@example.com,'+1 189 835 1725,43,other,New York,India,20-07-2021,09-05-2022 11:51,676.62,Sports,1
+309,Peter Doe,peter.doe@mail.net,130-913-9649,63,MALE,Los Angeles,Germany,31-01-2020,24-12-2022 03:37,,Sports,3
+567,Mary Williams,mary.williams@mail.net,(707) 125-1327,64,Otheer,New York,France,30-05-2020,06-04-2021 22:42,15.4,Food,5
+861,Jane Doe,jane.doe@test.org,1806751255,69,Male,Los Angeles,Canada,04-12-2023,14-08-2024 05:51,,Clothing,4
+263,Jane Williams,jane.williams@test.org,027-394-7721,58,Male,Philadelphia,Mexico,10/28/2022,01-11-2024 15:24,254.34,Books,1
+611,  M@ry Wilson  ,mary.wilson@test.org,4162867170,23,Male,Chicago,France,03-06-2020,04-07-2020 03:29,70.59,Clothing,5
+14,Sarah Miller,sarah.miller@example.com,(411) 952-5238,200,Other,San Dieg0,France,26-09-2021,04-06-2025 13:03,339.6,Electronics,2
+525,Sarah Jones,sarah.jonesexample.com,5849102158,25,Male,Phoenix,Australia,01-10-2021,06-02-2022 13:38,35.07,Sports,0
+602,Mary Doe,mary.doe@example.com,(171) 810-3380,63,FEMALE,Houston,Mexico,20-05-2021,09-04-2024 07:02,122.17,Food,1
+128,John Brown,john.brown@test.org,9190933290,150,Male,San Diego,UK,01-12-2023,31-12-2024 13:13,39.26,Home Goods,2
+585,Emily Doe,emily.doe@example.com,960-546-5210,57,Other,Los Angeles,Mexico,07/26/2025,26-07-2025 06:47,282.29,F00d,5
+803,Peter Miller,peter.miller@example.com,(819) 550-4386,24,Other,Phoenix,Canada,18-02-2020,22-04-2023 18:59,341.78,Books,2
+327,Jane Wilson,jane.wilson@test.org,'+1 125 223 5634,28,Male, San Diego ,USA,10/28/2020,06/13/2024 14:17,157.69,Electronics,1
+89,Michael Williams,michael.williams@mail.net,,32,Other,Chicago,India,21-10-2020,05/31/2023 08:02,268.78,Clothing,6
+732,Jane Smith,jane.smith@test.org,730-573-4725,26,Other,Phoenix,UK,13-07-2023,11-10-2024 15:57,281.02,Sports,5
+158,Michael Smith,,(637) 469-4225,62,Female,Philadelphia,Mexico,01-06-2025,06-12-2025 15:58,20.07,Food,5
+851,David Smith,david.smith@mail.net,(066) 995-8778,35,Female,San Diego,Canada,09-02-2025,03-09-2025 17:18,737.58,Electronics,6
+666,Sarah Miller,sarah.miller@example.com,(345) 134-7311,59,Male,New York,Germany,12-06-2024,20-02-2025 14:21,700.88,Home Goods,5
+189,John Williams,john.williams@example.com,(272) 139-6096,43,Male,Houston,India,02-05-2023,12/28/2023 14:55,375,Electronics,1
+256,Sarah Davis,sarah.davis@test.org,(594) 900-5082,48,Other,New York,USA,27-01-2022,04-08-2023 11:41,666.32,Books,1
+450,  Jane Miller  ,jane.miller@test.org,(402) 582-7088,31,female,Phoenix,Mexico,01/29/2021,,788.47,Food,5
+963,John Miller,john.miller@mail.net,'+1 321 784 8998,45,Female, Houston ,Australiaq,12-10-2023,27-02-2025 13:11,607.72,Books,2
+25,John Wilson,john.wilson@mail.net,365-529-6030,26,Male,Philadelphia,Australia,17-01-2022,06-04-2022 16:08,167.49,Clothing,5
+616,Peter Doe,peter.doe@test.org,1869146273,58,Female,San Diego,India,09-08-2021,13-12-2024 11:13,142.49,Food,4
+897,John Brown,john.brown@test.org,972-530-3077,23,Male,Los Angeles,Atlantis,23-12-2021,,720.36,Clothing,10
+106,Jane Williams,jane.williams@example.com,9569819972,25,Female,New Y0rk,UK,18-03-2020,02-11-2025 11:00,415.87,Books,1
+149,David Williams,,'+1 020 976 7024,63,Male,Philadelphia,Australia,16-08-2024,03-06-2025 17:41,789.25,Electronics,3
+832,Jane Jones,jane.jones@test.org,,49,Other,Philadelphia,USA,08/25/2020,29-08-2022 16:34,408.09,Food,3
+843,Mary Jones,mary.jones@mail.net,(327) 149-9717,62,Female,Houston,Australia,01/29/2023,13-03-2024 16:21,258.31,Clothing,1
+717,Peter Davis,peter.davis@test.org,(378) 110-3124,67,Female,Los Angeles,France,28-09-2022,25-07-2025 23:06,993.59,Electronics,4
+487,  Sarah Davis  ,sarah.davis@mail.net,(209) 138-1856,68,Female,Chicago,Indiax,10/25/2024,06-11-2024 05:53,312.22,Food,1
+716,Jane Davis,jane.davis@test.org,'+1 145 927 9825,45,Other,Chicago,Canada,01/14/2021,17-05-2021 04:19,257.56,Electronics,4
+725,Emily Miller,emily.miller@mail.net,8796034955,37,FEMALE,San Antonio,Canada,12-02-2020,31-05-2022 13:29,455.07,Food,3
+110,David Wilson,david.wilson@test.org,990-308-6648,49,Male,New York,USA,18-10-2022,24-09-2024 05:48,399.65,Electronics,5
+438,John Miller,john.millertest.org,(133) 678-5925,31,Male,Los Angeles,France,24-12-2024,07-01-2025 09:36,230.51,Books,3
+108,John Jones,john.jones@example.com,(680) 454-3628,37,Female,Phoenix,Narnia,17-07-2021,03/30/2023 19:53,998.18,Clothing,3
+892,David Wilson,david.wilson@mail.net,8353665123,58,Other,Los Angeles,Australia,30-10-2020,07/23/2025 10:19,987.37,Sports,2
+734,Peter Doe,peter.doe@example.com,4572787322,69,Male,Chicago,USA,19-09-2023,26-07-2024 08:00,384.66,Books,2
+159,Mary Davis,mary.davis@example.com,,36,Female,San Diego,Mexico,06-03-2021,25-04-2023 23:39,422.6,Electronics,3
+401,Jane Wilson,jane.wilson@example.com,743327897,48,Male,Los Angeles,France,08-04-2025,20-04-2025 04:39,591.68,Sports,2
+443,Michael Doe,michael.doe@example.com,(205) 985-0485,67,Other,Phoenix,Germany,03/28/2024,,302.04,Electronics,10
+137,Emily Davis,emily.davis@test.org,993-251-1751,40,Female,Phoenix,Canada,03-12-2022,27-07-2024 04:47,88.33,Home Goods,5
+760,Peter Miller,peter.miller@test.org,(562) 188-3264,41,Male,Los Angeles,Germany,06-05-2021,02-11-2023 22:14,530.39,Sports,4
+935,Emily Smith,emily.smith@test.org,'+1 334 229 8433a,35,Male,Phoenix,France,26-03-2023,09-08-2023 17:07,989.75,Clothing,1
+941,Peter Wilson,peter.wilson@test.org,(437) 495-6328,22,Female,Houston,USA,06-01-2021,15-12-2021 07:55,562.38,Sports,4
+429,Emily Smith,emily.smith@example.com,,46,Feemalee,New York,USA,18-10-2024,02-02-2025 20:37,60.68,Sports,2
+39,Mary Wilson,mary.wilson@mail.net,'+1 268 285 2851,,Female,San Antonio,UK,03/30/2025,06-04-2025 12:25,627.12,Books,5
+391,Michael Miller,,2852691476,47,FEMALE,Philadelphia,USA,09-04-2025,06/20/2025 18:08,303.65,Sports,0
+341,Peter Miller,peter.miller@example.com,5635948966a,69,Male,Chicago,India,17-07-2023,25-06-2024 10:01,50000,Electronics,5
+45,Emily Jones,,2065857505,70,Other,San Antonio,Germany,10-03-2022,09-09-2022 20:13,223.09,Electronics,4
+382,Peter Doe,peter.doe@test.org,'+1 946 662 7588,36,Female,Houston,France,10-01-2023,29-11-2024 05:18,369.24,F00d,1
+315,Michael Davis,michael.davis@example.com,(729) 268-1819,49,Female,San Diego,Canada,24-06-2022,18-03-2025 19:00,747.36,Sports,1
+452,Michael Davis,michael.davis@example.com,'+1 741 908 9933,50,Other,Chicago,Germany,11/29/2022,02/25/2023 14:40,974.23,Food,3
+153,Michael Doe,michael.doe@example.com,'+1 803 821 5344,69,Female,Phoenix,Mexico,07-04-2020,15-05-2020 06:59,450.06,Electronics,3
+947,Michael Davis,michael.davis@example.com,252-984-0670,24,Other,Houston,India,10/13/2024,10/13/2024 05:51,529.99,Food,4
+454,John Williams,john.williams@example.com,8839469365,58,Female,Chicago,USA,07-12-2021,03-10-2023 22:33,350.45,Clothing,2
+862,Michael Davis,michael.davis@example.com,348-951-7625,23,female,,UK,07-07-2023,02-09-2023 19:19,951.06,Food,4
+245,Sarah Brown,sarah.brown@mail.net,(000) 661-3122,32,Male,Houston,UK,13-04-2020,31-01-2023 17:06,,Clothing,4
+629,Sarah Doe,sarah.doe@test.org,674-142-3260,23,Female,Houston,Germany,03/30/2025,10-04-2025 12:30,354.03,Home Goods,2
+307,David Brown,,'+1 067 362 2434,53,Female,,Mexico,03-08-2024,18-07-2025 20:25,743.29,Home Goods,2
+743,Jane Wilson,jane.wilson@test.org,'+1 306 532 7748,49,other,Ph0enix,France,17-07-2023,04-11-2023 04:17,103.98,Electronics,5
+678,Michael Jones,michael.jones@test.org,309-066-1674,18,Other,Houston,USA,11-06-2020,15-06-2025 04:26,361.96,Electronics,5
+710,Mary Jones,mary.jones@example.com,5714711080,60,Female, Chicago ,Canada,20-12-2020,22-01-2024 06:58,98.28,Food,4
+368,David Brown,david.brown@mail.net,1523409679,58,Female,Philadelphia,Canada,07/26/2024,14-01-2025 22:21,429.42,Food,1
+853,Emily Doe,emily.doe@test.org,'+1 543 952 0567,19,Male,New York,Australia,04-07-2021,20-10-2024 15:23,652.73,Food,3
+311,Jane Williams,jane.williams@example.com,902-767-4977,29,Other,New Y0rk,UK,07-07-2023,10-03-2025 07:33,926.55,Books,1
+192,Michael Smith,michael.smith@test.org,(955) 056-5741#,38,Other,Los Angeles,Australiax,06-08-2021,03/19/2025 08:36,43.44,Home Goods,1
+462,Michael Smith,michael.smith@test.org,(326) 815-3271,67,Female,Houston,Franceq,12/23/2023,29-05-2025 14:46,69.02,Sports,4
+481,John Doe,john.doe@test.org,'+1 305 884 5549,40,Male,Philadelphia,India,16-05-2025,05-07-2025 08:49,975.37,Food,3
+155,Jane Brown,jane.brown@example.com,388-646-1147,52,Other,Phoenix,USA,13-06-2022,07-06-2025 10:54,375.78,Books,5
+111,Emily Davis,emily.davis@mail.net,(353) 265-8197,66,OTHER,San Diego,France,01-09-2022,26-03-2022 08:52,633.95,Food,2
+598,Emily Wilson,,(277) 184-2056,18,Male,Philadelphia,France,02/20/2024,03-10-2024 22:42,312.61,Food,4
+430,John Brown,john.brown@test.org,'+1 713 458 5863,69,Female, San Diego ,Germany,05/21/2020,11/27/2023 02:47,761.3,Clothing,3
+961,Sarah Davis,sarah.davis@mail.net,837-076-6621,46,Female,,UK,06/13/2020,08/31/2024 11:48,304.99,Sports,1
+417,Michael Williams,michael.williams@test.org,017-934-6164,38,Other,San Diego,Germany,10/30/2022,14-07-2025 13:39,946.78,Home Goods,3
+273,Jane Williams,jane.williams@mail.net,871-057-9173,31,female,New York,France,03/14/2023,23-05-2024 03:37,291.53,Food,1
+737,Emily Doe,emily.doe@mail.net,802-264-9876,67,Female,Chicago,UK,15-04-2020,07/28/2024 17:04,97.26,Home Goods,2
+692,Emily Doe,emily.doe@example.com,,48,Male,Los Angeles,Narnia,15-12-2024,25-12-2024 12:15,182.36,Electronics,4
+390,Mary Miller,mary.miller@example.com,120-203-7489,28,Female,Phoenix,France,31-03-2024,,888.41,Books,5
+712,David Jones,david.jones@mail.net,'+1 551 225 7348,35,Other,Philadelphia,France,04-10-2021,25-11-2021 16:50,886.89,Books,3
+378,Peter Miller,peter.miller@example.com,599-412-8080#,25,Other,Chicago,France,04-07-2024,16-10-2024 05:30,200.63,Clothing,5
+310,David Jones,david.jones@example.com,3918831877,57,Male,Houston,Canada,01-11-2024,01/26/2025 02:37,183.21,Home Goods,3
+414,Jane Brown,jane.brown@example.com,(038) 394-0095,44,Other,Chicago,France,13-02-2020,10-07-2022 11:43,560.75,Food,5
+93,David Wilson,david.wilson@mail.net,9999086179,58,Male,,USA,17-01-2021,03-12-2024 23:48,87.46,Books,5
+900,John Wilson,john.wilson@test.org,307-980-6106,65,Male,Los Angeles,Mexicoq,05-06-2023,07/24/2024 03:14,377.01,Home Goods,5
+80,Sarah Williams,sarah.williams@example.com,5081721330,19,other,San Antonio,Atlantis,26-08-2021,09/18/2024 18:53,111.9,Books,4
+901,John Doe,john.doe@mail.net,(455) 731-4558,24,Other,New York,France,09-08-2024,17-07-2025 04:33,389.12,Food,3
+53,David Miller,david.miller@test.org,147-078-0409,49,Male,Houston,UK,22-09-2023,14-04-2025 07:29,331.97,Home Goods,3
+420,Peter Williams,peter.williams@example.com,(577) 027-5385,61,Other,New York,Mexico,04-11-2020,28-11-2023 12:17,399.89,Clothing,4
+170,  John Smith  ,john.smith@example.com,764-002-6928,63,Other,Chicago,UK,11/20/2022,15-01-2023 12:34,424.21,Food,4
+140,Mary Brown,mary.brown@mail.net,591835698,19,male,Los Angeles,USAx,03-01-2020,10-09-2020 01:12,154.33,Food,4
+749,Mary Jones,mary.jones@example.com,'+1 961 964 0226,69,Other,,Germany,15-02-2024,19-06-2024 08:01,786.17,Books,1
+810,Mary Williams,mary.williams@example.com,(480) 515-4248,150,other,Chicago,Mexico,08-05-2022,02/27/2025 11:16,418.05,Electronics,1
+186,John Wilson,john.wilson@example.com,'+1 680 103 2454,,Otheer,Houston,Canada,10/24/2021,10/26/2023 09:21,541.88,Food,5
+652,John Williams,john.williams@mail.net,'+1 249 824 6886,32,Female,Philadelphia,India,24-11-2023,11-10-2024 07:06,580.94,Sports,4
+499,Mary Smith,mary.smith@example.com,671-720-9406,18,Male,Chicago,France,03-11-2021,12-08-2022 14:50,864.65,Electronics,5
+816,Mary Smith,mary.smith@mail.net,6212462269a,31,Malee,Philadelphia,France,01/21/2024,10-05-2024 21:45,855.96,Sports,4
+831,Michael Miller,michael.miller@test.org,8383075090,42,female,Philadelphia,Mexico,09/21/2021,05/17/2024 19:47,,Sports,5
+427,Sarah Doe,sarah.doe@mail.net,(157) 697-6699,62,FEMALE,Chicago,India,07/29/2023,12-03-2024 06:49,486.29,Home Goods,5
+677,Jane Wilson,jane.wilson@mail.net,'+1 897 452 6102,43,male,Los Angeles,Narnia,25-01-2023,01-08-2024 00:25,163.48,Home Goods,4
+578,David Davis,david.davis@test.org,010-676-0289,48,Female,,USA,07/28/2022,20-03-2025 06:07,738.89,Electr0nics,3
+589,David Miller,david.miller@example.com,739-074-4148!,24,MALE,Philadelphia,India,13-07-2024,22-08-2024 11:47,881.38,Sports,5
+331,Mary Doe,mary.doe@mail.net,'+1 122 884 6481,39,Malee,Chicago,India,03-01-2022,29-03-2025 18:01,221.41,Sports,5
+882,Jane Doe,jane.doe@test.org,'+1 218 558 6340,38,other,,Canada,07-11-2021,14-08-2024 10:56,796.64,Food,2
+912,Michael Jones,michael.jones@example.com,2156216828,58,Feemalee,Ph0enix,Australia,18-05-2025,06-07-2025 12:22,585.14,Clothing,4
+360,David Miller,david.miller@test.org,'+1 625 761 6343,65,Other,Chicago,UK,10-05-2022,14-02-2023 22:24,493.51,Sports,3
+249,David Doe,david.doe@test.org,'+1 094 625 9338,28,Male,Philadelphia,Canada,26-10-2022,08/28/2023 14:01,350.75,Clothing,4
+838,Peter Smith,peter.smith@example.com,,21,Male,San Antonio,Germany,05-12-2023,14-07-2024 18:54,109.69,Food,1
+355,Michael Miller,michael.miller@test.org,(852) 611-8376,58,Other,,UK,05-02-2021,05-11-2022 11:04,482.35,Clothing,2
+923,David Smith,david.smith@example.com,580-289-6603,25,Other,San Antonio,Mexico,01/13/2024,,420.05,Books,1
+584,Mary Wilson,mary.wilson@example.com,,46,Female,San Diego,USA,07/22/2025,07/24/2025 13:04,509.45,Home Goods,5
+808,David Davis,david.davis@mail.net,(500) 225-4933,33a,feemalee,San Antonio,India,23-07-2021,10/29/2023 13:06,743.63,Electronics,1
+214,Mary Miller,mary.miller@mail.net,'+1 280 832 0601,52,Male,Houston,USAz,22-12-2022,26-12-2024 08:28,263.36,Home Goods,5
+337,Emily Davis,emily.davis@mail.net,(176) 212-5918,25,Female,New York,USA,27-03-2020,13-05-2021 06:27,372.32,Books,2
+322,Emily Smith,emily.smith@mail.net,(974) 551-7663,18,Other,,France,06/21/2023,06-05-2025 10:37,544.92,Books,3
+815,Sarah Wilson,sarah.wilson@example.com,8327874712,41,Female,San Diego,Mexico,20-10-2024,31-05-2025 15:54,453.27,Clothing,4
+852,Peter Jones,peter.jones@mail.net,5965188193,34,Male,New York,India,07-07-2025,07-08-2025 21:51,653.58,Sports,4
+756,Emily Wilson,emily.wilson@mail.net,792-818-4664,36,Other,Houston,France,25-07-2021,11/20/2024 03:37,95.36,Food,3
+789,Peter Davis,peter.davis@example.com,'+1 809 874 6908,36,Other,,Canada,05/28/2021,05-12-2024 09:56,304.28,Cl0thing,1
+830,Emily Jones,emily.jones@mail.net,'+1 950 521 2726,50,Other,San Antonio,Mexico,11/27/2023,,29.02,Food,4
+811,Michael Jones,michael.jones@mail.net,(919) 331-9551,36,Other,,France,24-04-2023,09/17/2023 04:55,575.93,Clothing,4
+326,David Jones,david.jones@example.com,9574476230,,Malee,Los Angeles,UKx,10-04-2022,12/17/2023 02:38,253.56,Food,3
+711,John Jones,john.jones@test.org,962-740-8243,34,Female,San Diego,Australia,20-07-2022,09/19/2022 08:27,838.65,Books,3
+157,Emily Miller,emily.miller@mail.net,3182835978,,Female,Phoenix,Australia,20-02-2025,29-04-2025 21:57,147.63,Food,1
+824,Peter Williams,peter.williams@test.org,'+1 119 541 7701,39,Female,Philadelphia,USA,28-08-2023,27-01-2025 23:53,608.56,Cl0thing,3
+262,John Wilson,john.wilson@test.org,646-802-6106,29,Female,Chicago,USAq,26-11-2021,13-02-2023 07:23,974.78,Food,1
+530,David Davis,david.davistest.org,(486) 068-7034,56,Other,Houston,USAx,09-05-2021,20-04-2024 05:28,970.52,Books,4
+994,Emily Miller,emily.miller@test.org,(883) 276-9798,60,Female,Chicago,Mexico,08-10-2023,27-07-2024 06:42,915.16,Sports,4
+956,Michael Jones,michael.jones@example.com,(494) 910-3509,59,FEMALE,,Canada,23-11-2022,01-01-2023 12:09,369.11,Electr0nics,2
+283,Peter Jones,peter.jones@test.org,(677) 565-9147,40,Female,New York,Australia,06-12-2020,01-12-2020 00:50,820.2,Food,2
+333,Jane Miller,jane.miller@mail.net,159978966,,Male, San Diego ,Mexico,06-06-2023,22-08-2024 22:29,889.71,Food,5
+55,Sarah Miller,sarah.miller@mail.net,(438) 443-2920,40,Other,Houston,Germany,07-10-2020,06-06-2021 07:40,373.97,Electr0nics,2
+358,John Jones,john.jones@example.com,'+1 642 256 4323,53,OTHER,San Diego,India,06-08-2022,12/14/2024 00:51,656.89,Home Goods,2
+663,David Doe,david.doe@test.org,8349274357,19,Male,Chicago,UK,04/26/2021,09/29/2023 00:58,645.11,Food,4
+352,Jane Miller,jane.miller@example.com,1701704848,40,Other,San Antonio,USAz,12-03-2022,02-03-2025 07:40,844.84,Clothing,10
+868,Emily Brown,emily.brown@test.org,9727455679,42,Other,Chicago,Mexico,09/21/2020,02-10-2022 03:06,648.31,Food,1
+399,Mary Doe,mary.doe@example.coom,(878) 898-2110,41,Other,Los Angeles,India,22-12-2023,03-12-2024 17:31,451.22,Food,1
+52,Michael Jones,michael.jones@mail.net,'+1 138 206 4225,66,Other,Philadelphia,Germany,24-02-2024,11/30/2024 18:35,818.1,Clothing,4
+240,  Michael Smith  ,michael.smith@example.com,'+1 719 013 7572,28,Male,San Diego,Germany,23-10-2021,17-01-2022 09:15,70.09,Books,4
+261,Jane Wilson,jane.wilson@test.org,666-613-6119,44,Female,Chicago,Mexico,06/23/2023,26-03-2025 02:24,317.9,Home Goods,3
+733,Jane Williams,jane.williams@example.com,'+1 268 397 1083,29,Female,Chicago,USA,03/26/2024,,440.57,Books,1
+993,Michael Williams,michael.williams@example.com,570-357-8175,,Other,Chicago,France,07-02-2020,31-10-2023 10:39,836.67,Sports,4
+167,Jane Miller,jane.miller@test.org,'+1 428 562 3912,54,Other,San Dieg0,USA,21-07-2020,16-01-2024 09:16,821.86,Home Goods,3
+413,Sarah Doe,sarah.doe@mail.net,531-310-3157,26,FEMALE,Phoenix,Mexico,03-04-2023,27-01-2025 17:55,858.35,Electronics,1
+246,Sarah Jones,sarah.jones@mail.net,'+1 897 329 1043,52,Male,Chicago,France,26-04-2025,11-07-2025 08:01,222.84,Books,1
+345,John Doe,john.doe@example.com,2948933322,38,Male,Phoenix,Mexico,03/15/2024,12-01-2025 19:06,861.35,Books,1
+689,Emily Miller,emily.miller@mail.net,'+1 503 653 9031,150,Male,San Diego,UK,03-01-2021,07/13/2025 14:05,,Food,4
+276,Emily Doe,emily.doe@test.org,831-677-0418,32,Male, Houston ,India,09-01-2020,15-06-2025 17:41,99.21,Clothing,3
+624,Emily Smith,emily.smith@test.org,4154007163,44,Other,Houston,Australia,17-04-2025,07-06-2025 17:41,564.75,Clothing,1
+872,Mary Miller,mary.miller@example.com,(285) 132-3501,25,Other,San Antonio,Canada,14-04-2024,29-12-2024 11:48,50000,Home Goods,3
+83,Michael Miller,michael.miller@test.org,319-815-1238,29,Other,Philadelphia,Mexico,01-10-2020,06-02-2022 15:26,460.53,Electronics,4
+191,Michael Williams,michael.williams@test.org,275-412-8161,62,Male,Phoenix,Mexicoz,22-02-2022,09-08-2023 11:02,970.58,Books,6
+588,Emily Doe,emily.doe@mail.net,,18,Female,Houston,India,06-12-2025,27-06-2025 15:57,892.3,Sports,4
+42,Mary Wilson,mary.wilson@mail.net,550-161-7695,61a,Male,Houston,UK,23-10-2020,18-12-2022 08:08,899.44,Clothing,2
+139,Michael Wilson,michael.wilson@mail.net,'+1 888 356 5490,57,Other,San Diego,Germany,17-05-2025,24-06-2025 11:19,948.54,Food,10
+845,David Wilson,david.wilson@test.org,'+1 779 481 0523#,45,Other,Houston,USA,07/24/2024,10-10-2024 00:07,872.87,Electronics,2
+502,David Jones,david.jones@example.com,,25,Female,Chicago,Germany,27-01-2021,04-11-2022 05:35,839.58,Electronics,2
+6,John Miller,john.miller@test.org,,48,Female,Houston,Canada,08-05-2020,06/27/2025 00:56,35.13,Clothing,3
+580,John Jones,john.jones@test.org,(053) 136-8939,26,Other,Chicago,France,09/18/2020,24-04-2024 00:48,871.37,Clothing,3
+685,Sarah Doe,sarah.doe@test.org,4526804420,24,Male,Phoenix,UK,28-05-2025,06-04-2025 02:52,317.52,Books,1
+176,Jane Miller,jane.miller@example.com,,31,Male,New York,France,04/23/2023,10-07-2023 14:23,681.85,Electronics,5
+919,  Peter Smith  ,peter.smith@test.org,(844) 287-6556,62,Female,New York,France,19-08-2022,01-02-2024 09:35,405.14,Clothing,1
+642,John Miller,john.miller@test.org,(497) 216-6985,67,Other,New York,France,07-04-2023,12-11-2024 14:50,230.96,Home Goods,5
+517,John Jones,john.jones@test.org,238-329-4000,,Other,Houston,Australia,08/14/2021,,288.61,Electronics,1
+33,Peter Doe,peter.doe@mail.net,2823306866,26,Female,Phoenix,Germany,29-10-2024,04-07-2025 03:52,881.94,Food,5
+433,Sarah Brown,sarah.brown@test.org,(470) 251-4389,60,Female,San Antonio,India,28-11-2023,26-07-2024 21:21,75.21,Clothing,5
+719,Mary Davis,mary.davis@example.com,5473002346#,54,Other,Ph0enix,Canada,01/27/2020,22-12-2024 08:04,739.12,Electronics,1
+288,Mary Davis,mary.davis@mail.net,(660) 861-6637,37,Male,Chicago,Germany,27-12-2021,12/23/2024 22:31,,Clothing,3
+332,Mary Brown,mary.brown@example.com,'+1 032 161 3590,38,Other,San Diego,France,20-02-2023,08/19/2024 05:21,598.57,Sports,2
+406,Sarah Davis,sarah.davis@example.com,(858) 825-1956,39,other,Houston,Germany,03-03-2023,31-07-2023 12:53,455.1,Sports,5
+171,David Doe,david.doe@example.com,(072) 380-5954a,41,Male,Houston,USA,22-12-2021,07/13/2025 02:51,752.18,Books,6
+694,Emily Doe,emily.doe@mail.net,'+1 430 643 3420,57,male,New York,India,13-03-2022,26-07-2023 05:16,334.29,Sports,0
+828,Mary Jones,mary.jones@test.org,'+1 704 516 5669,23,Other,Phoenix,USA,03-07-2025,15-07-2025 00:31,86.93,Sports,10
+272,Mary Brown,mary.brown@mail.net,(533) 477-6885,48,Male,New York,Canada,07/14/2025,19-07-2025 22:22,,Books,3
+98,Mary Miller,mary.miller@example.com,(074) 461-4936,61,Other,Houston,Australia,26-01-2022,12-02-2023 22:16,445.86,Home Goods,3
+97,David Smith,david.smith@example.com,,42,Male,,Franceq,09/13/2023,10-01-2024 11:59,964.01,Clothing,5
+871,Sarah Doe,sarah.doe@example.com,381-422-3652,35,Other,,Germany,20-12-2023,09-07-2025 01:12,59.73,Books,1
+316,Peter Brown,peter.brown@example.com,(479) 813-2444,37,Other, San Diego ,France,04-01-2020,04-09-2024 15:02,669.19,Food,2
+234,John Brown,john.brown@mail.net,'+1 200 378 1083,27,Male,San Antonio,Australia,05-11-2024,06/19/2025 09:36,349.91,Home Goods,3
+155,Jane Brown,jane.brown@example.com,388-646-1147,52,Other,Phoenix,USA,13-06-2022,07-06-2025 10:54,375.78,Books,5
+720,Jane Brown,jane.brown@test.org,410-210-7447,70,Female,Phoenix,USA,05/17/2020,08-08-2020 16:35,765.16,Sports,2
+569,David Williams,david.williams@test.org,1203043477,23,Female,Houston,UK,10-05-2023,30-09-2024 03:03,,Electronics,4
+672,Peter Miller,peter.miller@mail.net,(878) 275-5284,52,Other,Los Angeles,Germany,04/22/2021,05-08-2021 11:40,502.54,Food,4
+181,Sarah Miller,sarah.miller@mail.net,9208512624!,200,Other,San Diego,USA,27-08-2021,30-07-2023 15:16,940.04,Sports,3
+638,Mary Jones,mary.jones@example.com,462-771-4095,30,Male,San Antonio,France,03/18/2024,18-11-2024 08:50,319.06,Cl0thing,3
+304,Jane Wilson,jane.wilson@test.org,9125279532,44,Female,Chicag0,Mexico,16-10-2020,13-10-2023 01:37,154.08,Electronics,2
+35,Peter Davis,peter.davis@mail.net,6452322154,38,Other,Philadelphia,USA,05-04-2023,07/27/2024 05:59,620.11,Sports,2
+121,David Williams,david.williams@test.org,1551902936,18,Female,Philadelphia,Germany,03-04-2021,16-01-2023 17:29,616.13,Electronics,3
+792,Sarah Miller,sarah.millerexample.com,6518817578,31,Female,San Antonio,France,03-05-2020,10/16/2020 12:40,623.49,Food,2
+920,John Williams,john.williams@example.com,3827505124,54,Female,New York,Mexico,02-12-2022,19-06-2023 23:07,979.7,Home Goods,4
+312,Emily Williams,emily.williams@test.org,9295500026,67,Male,San Diego,UK,03-02-2021,11-07-2022 08:43,132.89,Sports,2
+61,Peter Miller,,(550) 041-1092,43,Other,Los Angeles,UK,02-05-2021,23-11-2021 22:24,424.06,Clothing,1
+456,Jane Williams,jane.williams@test.org,,30,Other,New York,Australia,17-10-2022,09/29/2024 10:44,841.66,Books,3
+922,Sarah Wilson,sarah.wilson@example.com,324-376-3978,55,Female,Houston,Atlantis,06/27/2020,18-11-2022 12:13,380.31,Electronics,2
+52,Michael Jones,michael.jones@mail.net,'+1 138 206 4225,66,Other,Philadelphia,Germany,24-02-2024,11/30/2024 18:35,818.1,Clothing,4
+984,Sarah Smith,sarah.smith@test.org,(999) 223-4514,20,male,Philadelphia,Canada,14-12-2020,04-04-2021 15:52,520.6,Sports,5
+416,Jane Smith,jane.smith@example.com,8255064990,57,Other,Philadelphia,India,12-12-2021,13-02-2022 18:37,323.8,Home Goods,5
+152,Jane Wilson,jane.wilson@example.com,8318028245,25,Male,Los Angeles,Mexico,11-03-2020,09/20/2021 18:55,30.21,Clothing,3
+508,Emily Jones,emily.jones@test.org,250-930-2272,68,Other,Chicago,USAz,04-10-2021,04/22/2023 15:03,517.77,Books,2
+290,John Brown,john.brown@example.com,604-659-2589,54,Male,San Diego,Germany,12-01-2021,12/23/2024 00:16,877.83,Food,5
+371,Mary Williams,mary.williams@test.org,,45,Female,Chicago,Germany,21-10-2024,12-12-2024 10:53,,Books,1
+402,Mary Davis,mary.davis@test.org,4339122912,33,Malee,Los Angeles,UKz,18-12-2024,06/29/2025 09:12,894.32,Books,3
+447,John Doe,john.doe@test.org,(596) 917-3428,57,Male,New York,Germany,13-02-2024,25-06-2024 06:25,961.89,Books,5
+334,Sarah Brown,sarah.brown@test.org,718-482-3829,64,Female, Houston ,Mexico,12-02-2024,17-12-2024 03:14,714.07,Clothing,4
+305,Sarah Davis,sarah.davis@test.org,891788357,23,Other,San Diego,USA,16-08-2021,03-10-2024 11:57,946.55,Books,4
+793,Sarah Miller,sarah.miller@example.com,(202) 817-4700,69,Male,Phoenix,UK,03/28/2022,04-08-2025 18:20,50000,Electr0nics,3
+343,John Wilson,john.wilson@example.com,,,Male, Philadelphia ,USA,04-12-2024,10-01-2025 08:47,536.39,Books,1
+199,Peter Miller,peter.miller@test.org,,19,Female,San Antonio,India,01-12-2020,10-07-2022 03:22,743.01,Clothing,10
+7,Sarah Jones,sarah.jonesmail.net,379-706-5490,19,Female,San Diego,UK,05/16/2023,13-10-2024 13:25,424.06,Electronics,3
+335,Sarah Miller,sarah.miller@mail.net,(515) 362-9862,20,Other,San Diego,Canada,15-07-2025,23-07-2025 19:33,50000,Food,3
+738,Mary Smith,mary.smith@example.com,643-132-4107,25,Malee,Houston,Mexico,30-12-2023,03-05-2025 19:29,224.79,Electronics,5
+64,Michael Williams,michael.williams@example.com,,46,Female,Phoenix,UK,21-09-2022,08-12-2022 06:02,331.63,Sports,1
+213,Sarah Brown,sarah.brown@example.com,3989665083,28,FEMALE,Ph0enix,Mexico,08-03-2023,14-05-2024 23:36,801.42,Home Goods,3
+908,Michael Davis,michael.davis@example.com,'+1 321 096 1420,,Other,San Diego,USA,18-02-2025,10-03-2025 11:45,564.25,Sports,4
+374,Peter Davis,peter.davis@mail.net,'+1 146 990 6622,21,Male,Philadelphia,Germany,15-01-2022,,343.47,Electronics,1
+903,Michael Brown,michael.brown@example.com,(244) 134-3487,25,Other,San Antonio,Mexico,19-07-2024,06/27/2025 01:08,826.48,Home Goods,5
+306,David Doe,david.doe@mail.net,1934997870,50,Female,Houston,Germany,11-04-2021,31-12-2024 22:34,459.56,Electronics,2
+432,Mary Davis,mary.davis@mail.net,'+1 169 838 7597,66,Female,Houston,Australia,05/29/2025,31-05-2025 11:55,426.22,Home Goods,1
+817,David Wilson,david.wilson@example.com,411-983-8826,52,other,Los Angeles,Australiax,01-05-2023,10-09-2023 09:57,790.22,Books,3
+807,S@r@h Brown,sarah.brown@example.com,0889787011!,45,Male,Houston,Mexico,09-06-2020,27-08-2022 05:48,554.56,Food,1
+644,Jane Wilson,jane.wilson@example.com,7097371644,34,Male,Phoenix,Mexico,07-03-2023,03/18/2023 12:45,965.32,Home Goods,1
+471,Peter Williams,peter.williams@example.com,6805637950,25,Other,Los Angeles,Australia,26-10-2022,17-03-2024 08:05,137.45,Food,4
+990,Mary Wilson,mary.wilson@example.com,811-850-9692,52,Other,San Antonio,UK,12-08-2024,10-07-2024 07:07,800.68,Books,4
+385,John Brown,john.brown@test.org,713-920-5814,50,Female,Los Angeles,USA,10-06-2025,24-07-2025 14:28,862.35,Clothing,3
+133,Peter Davis,peter.davis@example.com,,70a,Female,Los Angeles,France,18-11-2024,01-02-2025 19:26,927.02,Sports,1
+609,John Williams,john.williams@mail.net,657-818-8625,27,Female,Philadelphia,Mexico,08-10-2022,27-05-2025 14:28,167.56,Home Goods,1
+970,Emily Miller,emily.miller@test.org,(178) 329-3931,26,Female,Phoenix,India,02-02-2021,21-07-2025 10:33,152.88,Home Goods,5
+236,David Davis,david.davis@example.com,(462) 216-4822,34,Other,,USA,03-07-2025,04-03-2025 23:55,222.07,Clothing,4
+636,Mary Brown,mary.brown@test.org,(029) 826-1116,47,female,Phoenix,France,27-06-2024,,316.6,Food,4
+696,Peter Jones,peter.jones@mail.net,'+1 051 624 5616,26,Other,Houston,USA,03/21/2025,06-12-2025 20:46,574.3,Books,2
+520,Sarah Williams,sarah.williams@test.org,'+1 371 515 6249,27,Other,Philadelphia,Narnia,07-07-2023,01/18/2025 04:24,844.91,Home Goods,3
+380,Sarah Davis,sarah.davis@example.com,(300) 605-2947,39,other,,Mexico,24-01-2021,,105.58,Books,4
+932,Michael Williams,michael.williams@test.org,1778544006,24,Other,San Diego,USA,01-04-2023,25-11-2024 18:13,16.08,Electronics,2
+916,Sarah Davis,sarah.davis@mail.net,6183523791,66,Other, Houston ,Australia,04-05-2022,22-05-2025 07:07,771.33,Clothing,4
+319,Jane Williams,,9396629246,62,Other,Los Angeles,Mexico,04-11-2024,25-06-2025 01:08,,Clothing,4
+41,John Brown,john.brown@mail.net,2074829921,58,Male,New York,Mexico,05-02-2025,29-05-2025 15:06,195.63,Books,5
+223,David Williams,david.williams@mail.net,'+1 291 302 8749,41,Female,Chicago,UK,06-07-2020,,71.41,Electronics,1
+296,Michael Williams,michael.williams@mail.net,8155035019,47,Female,New York,USA,09-07-2025,22-07-2025 00:28,109.59,Books,4
+949,John Williams,john.williams@mail.net,5276502681,41,Male, Los Angeles ,India,04-09-2023,08-01-2024 00:16,117.94,Clothing,1
+156,Sarah Jones,sarah.jones@example.com,562-401-3561,60,Male,,Germany,20-05-2023,16-12-2023 12:04,802.22,Clothing,6
+294,Sarah Wilson,sarah.wilson@test.org,(756) 182-1098,42,male,Chicago,Australia,24-04-2024,02/21/2025 11:15,993.5,Books,1
+498,David Smith,david.smith@example.com,6455891626,65,Male,San Antonio,Germany,30-12-2024,28-06-2025 06:38,570.26,Home Goods,3
+809,Peter Doe,peter.doe@example.com,,58,Male, New York ,UK,09-08-2020,01-02-2022 10:53,204.04,Sports,10
+605,Emily Smith,emily.smith@example.com,'+1 838 234 1212,39,Female,,Canada,09-02-2020,22-11-2020 21:06,50000,Books,4
+847,Emily Doe,emily.doe@mail.net,668-168-9969,70,Male,Houston,Australia,21-08-2024,11-08-2024 04:40,730.5,Home Goods,4
+226,Sarah Wilson,sarah.wilson@example.com,,22,Feemalee,Phoenix,USA,08/27/2024,03-09-2025 05:12,273.88,Electronics,2
+107,Michael Miller,michael.miller@test.org,(226) 562-8047,60,Male,Houston,France,11-09-2020,31-10-2022 11:17,350.34,Clothing,5
+117,Mary Jones,mary.jones@test.org,130-199-7173,,Other,Chicago,USA,09/13/2023,10-03-2025 10:52,340.92,Food,4
+85,Michael Smith,michael.smith@test.org,(225) 026-1941,34,Other,Phoenix,Australia,27-12-2020,16-12-2024 11:52,911.24,Clothing,5
+132,Mary Wilson,mary.wilson@mail.net,311-818-1376,63,Female,Phoenix,France,10-10-2022,06-01-2024 07:38,83.27,Sports,3
+549,Peter Smith,peter.smith@test.org,'+1 865 411 5422,39,Female,Chicago,Germany,25-01-2020,02-05-2021 14:13,876.17,Food,2
+253,Sarah Jones,sarah.jones@test.org,'+1 376 853 5554,34,Female,San Diego,USA,30-03-2024,15-09-2024 04:34,482.72,Books,2
+339,John Jones,john.jones@test.org,'+1 237 685 8307,54,Feemalee,Phoenix,India,18-08-2023,12-04-2025 21:58,193.49,Electronics,2
+688,Jane Davis,jane.davis@test.org,1084710693,40,Other,New York,Canada,01/27/2020,04-08-2020 04:40,620.31,Books,2
+361,David Wilson,david.wilson@mail.net,'+1 526 181 9701,39,Female,,Canadaq,10-02-2020,24-11-2023 14:42,77.83,Sports,1
+618,Emily Doe,emily.doe@example.com,'+1 757 320 2246,22,Female,San Diego,Germany,09-05-2021,02/23/2024 01:56,768.68,Home Goods,1
+142,Sarah Jones,sarah.jones@test.org,(542) 575-4815,41,Other,Philadelphia,Germany,24-08-2021,03-07-2023 18:07,833.39,Food,10
+556,Peter Brown,peter.brown@mail.net,(655) 368-9409,22,Other,,Australia,26-10-2022,08-06-2023 01:39,,Home Goods,1
+2,John Davis,john.davis@example.com,'+1 266 043 1339,33,Female,Chicago,Mexico,02-10-2025,04-05-2025 12:20,25.24,Books,2
+473,John Williams,john.williams@mail.net,100-906-0428,43,Female,Chicago,Germany,01-10-2025,07/20/2025 03:37,455.47,Sports,4
+185,Mary Davis,mary.davis@example.com,290-072-2763,25a,Male,Chicago,Mexico,14-02-2020,03-10-2021 07:18,320.93,Books,5
+670,Peter Williams,peter.williams@example.com,230-926-4859,45,Male,Phoenix,UK,04-04-2020,17-12-2020 16:00,155.97,Sports,3
+127,Emily Williams,,215-758-4772,55,Other,Los Angeles,Mexico,12-06-2025,12-06-2025 15:51,916.51,Electronics,4
+88,John Davis,john.davis@test.org,2485842473,67,Female,Los Angeles,USA,30-07-2020,07-01-2024 02:25,292.59,Electronics,4
+123,Mary Smith,mary.smith@example.com,3036534151,35,Female, Los Angeles ,Australia,06-11-2020,22-06-2025 19:55,920.3,Food,4
+604,Michael Doe,michael.doe@test.org,6225631097,66,Female,Los Angeles,Australiax,04-09-2024,13-09-2024 16:38,60.37,Sports,5
+208,Peter Doe,peter.doe@mail.net,(954) 702-9258,29,Other,Los Angeles,UKx,24-08-2024,16-10-2024 15:43,713.56,Electronics,2
+610,Michael Jones,michael.jones@test.org,8827554848,49,other,Chicago,Atlantis,22-11-2022,09/21/2024 21:43,508.03,Food,2
+206,Jane Smith,jane.smith@test.org,'+1 086 756 2651,63,Female,San Diego,Australia,12-01-2023,19-01-2024 02:18,751.05,Food,3
+18,Emily Wilson,emily.wilson@mail.net,(069) 134-5317,69,Malee,Chicago,Germany,12/31/2021,02-05-2023 08:26,568.23,Books,4
+519,Emily Jones,emily.jones@test.org,'+1 964 350 2483,33,Other, Chicago ,India,04-01-2025,03-05-2025 02:39,888.76,Food,2
+835,Emily Doe,emily.doe@example.com,2604995756,29,Other,New York,Canada,01-02-2023,27-01-2025 03:58,701.26,Books,3
+561,David Smith,david.smith@example.com,(171) 873-2773,58,Female,Los Angeles,France,11-07-2022,03-12-2023 22:17,247.97,Home Goods,5
+105,David Wilson,david.wilson@test.org,(127) 663-3146,36,Male,Houston,Mexico,27-07-2025,27-07-2025 23:38,644.54,Electronics,4
+195,John Davis,john.davis@example.com,'+1 689 430 7102,29,Male,,UK,02-07-2021,25-11-2021 15:48,951.76,Sports,2
+601,Emily Brown,emily.brown@test.org,(919) 449-7803,36,Other,San Antonio,Canada,14-07-2020,08/21/2020 23:32,564.04,Books,5
+893,John Williams,john.williams@mail.net,(872) 645-0058,68,Female, Phoenix ,Australia,09-01-2021,08-01-2022 02:15,676.34,Food,1
+702,Emily Williams,emily.williams@mail.net,985-333-3926,47,Male,Los Angeles,Mexico,02/21/2020,04/19/2024 03:15,457.67,Books,1
+348,Emily Smith,emily.smith@test.org,5791311152,65,Male,Chicago,UK,04-05-2023,,832.2,Home Goods,3
+409,Michael Doe,michael.doe@example.com,940-946-8340,43,Malee,Los Angeles,Mexico,19-03-2020,17-10-2022 18:01,,Books,3
+896,Michael Miller,michael.miller@example.com,(878) 649-7032,36,Male,,Germany,20-03-2023,07-12-2024 14:30,475.65,Electronics,4
+560,John Wilson,john.wilson@mail.net,639877702,20,FEMALE,Phoenix,Canada,06-07-2025,12-06-2025 01:32,510.52,Cl0thing,5
+515,Mary Doe,mary.doe@mail.net,(949) 695-3728,61,Female,Philadelphia,Canada,07-12-2021,02/27/2023 04:25,358.79,Clothing,3
+150,Jane Doe,jane.doe@example.com,939-933-7953,29,Male,San Antonio,Australia,11-07-2025,07/27/2025 17:47,808.4,Home Goods,1
+58,  Mary Williams  ,mary.williams@test.org,2330071928,55,Male, San Antonio ,Canada,07/14/2022,06/15/2024 19:07,712.98,Clothing,1
+410,John Miller,john.miller@test.org,(393) 613-3425,44,Malee,New York,Mexico,04-10-2021,04/14/2024 03:01,720.44,Clothing,5
+522,Jane Miller,jane.miller@test.org,'+1 267 708 2840,36,Other,Houston,USA,16-01-2025,01-05-2025 06:33,122.47,Food,4
+225,Jane Brown,jane.brown@mail.net,3399306734,18,Female,Phoenix,Australia,04/23/2023,28-08-2023 17:33,685.73,Books,3
+187,Jane Wilson,jane.wilson@test.org,8857109444,56,Other,Los Angeles,France,27-02-2020,27-09-2022 13:54,660.6,Electronics,5
+643,John Doe,john.doe@test.org,'+1 987 748 7950,20,Male,Houston,Germany,07-12-2020,02-12-2023 19:55,179.48,Electronics,1
+884,Michael Smith,michael.smith@example.com,(232) 192-8343,48,female,Los Angeles,USA,12/14/2024,06/18/2025 17:25,849.04,Books,5
+668,David Miller,david.miller@mail.net,,,Male,Chicago,Mexico,18-03-2020,29-07-2022 13:31,276.07,Sports,2
+47,Michael Smith,michael.smith@example.com,(657) 701-3350,31,Male,San Antonio,Mexico,04-10-2021,31-07-2024 18:48,377.24,Food,1
+247,Jane Smith,jane.smith@mail.net,'+1 669 092 3093,60,Female,Houston,Germany,29-09-2023,10-04-2024 22:23,206.27,Sports,5
+239,Emily Smith,emily.smith@test.org,,69,Male,San Ant0ni0,UK,17-09-2024,,494.92,Clothing,2
+667,Sarah Doe,sarah.doe@example.com,531-346-9508,64,Other,Philadelphia,Mexico,27-01-2021,09-10-2024 21:47,59.4,Books,2
+328,Mary Davis,mary.davis@test.org,023-492-7773,54,MALE,New York,Canada,02/25/2023,11-10-2023 02:05,17.31,Electronics,1
+983,Mary Wilson,mary.wilson@mail.net,'+1 206 622 0143,62,Other,Chicago,Canada,01-11-2021,12/27/2022 06:14,865.23,Home Goods,3
+739,Emily Jones,emily.jones@mail.net,(510) 427-2023,61,Female,Phoenix,Mexico,06-04-2020,,-10,Electronics,4
+628,  Jane Brown  ,jane.brown@mail.net,'+1 840 286 0901,31,Female,San Antonio,Germany,04/24/2020,03-09-2023 21:54,655.5,Books,3
+744,Emily Doe,emily.doe@mail.net,'+1 521 081 9959,37,Female,San Diego,Australia,20-05-2020,,241.86,H0me G00ds,2
+769,Emily Doe,emily.doe@example.com,'+1 699 681 0434,68,MALE,New York,Canada,20-05-2021,,804.12,Home Goods,4
+575,Sarah Wilson,sarah.wilson@test.org,'+1 257 783 8080,35,Male,Chicago,Mexico,03-03-2025,06/18/2025 09:29,,Sports,2
+317,John Jones,john.jones@mail.net,883-574-9052,46,Other,Phoenix,India,20-10-2022,19-11-2023 00:23,530.01,Clothing,3
+81,Peter Doe,peter.doe@example.com,'+1 504 683 6191,22,Male,New York,Atlantis,07/30/2020,13-11-2021 06:46,721.75,Books,2
+362,Jane Miller,jane.miller@test.org,'+1 447 573 8121!,60,Female, San Diego ,France,21-04-2020,15-04-2024 08:32,520.34,Clothing,4
+20,Emily Brown,emily.brown@mail.net,(940) 309-5173,20,Other, New York ,Canada,28-08-2021,20-11-2022 22:38,25.51,Clothing,3
+855,Emily Williams,emily.williams@mail.net,'+1 921 552 6704,69,Other,San Antonio,Australia,17-03-2025,04/14/2025 11:09,273.51,Electr0nics,5
+461,Emily Smith,emily.smith@example.com,188-776-7500,38,Male,Philadelphia,Australia,06-04-2020,24-02-2021 05:22,569.32,Clothing,3
+381,Emily Davis,emily.davis@example.com,(501) 632-3895,48,Other,San Antonio,USA,10/15/2024,31-03-2025 13:21,679.36,Clothing,2
+991,John Smith,john.smith@example.com,(332) 075-5891,31,Male,Philadelphia,USA,20-02-2025,11-03-2025 06:11,705.06,Clothing,5
+72,Jane Smith,jane.smith@test.org,(145) 854-1446,31,Female,New York,Australia,25-10-2024,02-01-2025 08:31,15.55,Home Goods,3
+37,Emily Davis,emily.davis@example.com,161-675-5758,19,Male,Chicago,Mexicoq,08/24/2024,12-07-2024 07:39,286.45,Books,1
+679,Peter Miller,peter.miller@example.com,759-592-6701,70,Other,Phoenix,USA,04-10-2020,08/16/2024 18:54,31.31,Home Goods,3
+907,Jane Jones,jane.jones@example.com,(282) 456-6640,46,Female,Philadelphia,India,12-04-2024,06-07-2025 08:38,741.19,Clothing,4
+755,Michael Miller,michael.miller@mail.net,'+1 736 373 2786,25,other,New York,India,15-03-2020,04/18/2024 06:45,657.79,Sports,3
+513,Sarah Davis,sarah.davis@test.org,'+1 132 070 9090a,67,Other,Chicago,Mexico,12/19/2024,17-07-2025 18:43,399.43,Electronics,5
+418,John Smith,john.smith@test.org,148-435-5274,37,Other,Houston,India,24-06-2024,18-10-2024 17:16,401.2,Books,3
+57,Peter Wilson,peter.wilson@example.com,2710620577,38,Female,San Antonio,Mexicoq,08-08-2020,11-07-2025 10:18,-10,Food,2
+888,  Michael Jones  ,michael.jones@example.com,1772164051,55,Other,Chicago,India,22-06-2021,04-10-2024 07:31,80.71,Sports,1
+977,Michael Miller,michael.miller@mail.net,'+1 656 588 6242,-5,Female,San Antonio,USA,25-02-2025,03/13/2025 16:05,223.12,Electronics,4
+948,Peter Smith,peter.smith@mail.net,'+1 685 503 8670,26,Other,Phoenix,Canada,05/15/2025,05/22/2025 14:54,399.26,Food,3
+5,Sarah Wilson,sarah.wilson@mail.net,716-735-3228,30,Male,Chicago,USA,03-08-2022,18-06-2023 06:36,396.35,Clothing,5
+506,Jane Smith,,442-888-3520,40,Female,Los Angeles,Germany,27-02-2025,28-04-2025 12:35,213.75,Sports,2
+930,Emily Williams,emily.williams@test.org,9946901046,,Male,New York,Mexico,21-06-2024,16-12-2024 16:29,925.1,Home Goods,5
+479,David Smith,david.smith@mail.net,(586) 896-8892,23,Female,San Diego,USA,06-06-2020,03-03-2022 00:15,447.63,Books,2
+728,Mary Brown,mary.brown@mail.net,'+1 620 451 3886,62,Other,Los Angeles,USA,29-01-2020,02-11-2020 17:18,292.49,Books,4
+727,Peter Jones,peter.jones@test.org,(509) 889-6213,150,Feemalee,Philadelphia,Canada,21-10-2024,,330.86,Sports,5
+974,Emily Miller,emily.miller@mail.net,,37,OTHER,San Diego,Canada,05-01-2023,02-02-2024 21:02,113.36,Electronics,5
+536,David Smith,david.smith@mail.net,369-708-3661,32,Male,Houston,Australia,28-10-2020,22-03-2025 16:53,317.69,Food,1
+391,Michael Miller,,2852691476,47,FEMALE,Philadelphia,USA,09-04-2025,06/20/2025 18:08,303.65,Sports,0
+587,Emily Brown,emily.brown@mail.net,9043138699,60,Male,New York,Australia,08-11-2021,31-03-2024 16:12,883.96,Sports,4
+231,Jane Smith,jane.smith@test.org,'+1 925 935 2215,21,Female,,India,16-07-2020,01/17/2021 23:43,371.56,Books,3
+174,John Brown,john.brown@mail.net,3052408668,61,Female,New York,Canada,18-10-2020,05-11-2022 14:59,53.94,Electronics,2
+527,John Doe,john.doe@example.com,'+1 023 930 2411,18,Female, San Diego ,Narnia,17-05-2025,21-06-2025 20:09,626.22,Home Goods,5
+681,Emily Brown,emily.brown@mail.net,340-790-7214,27,Male,Houston,France,30-06-2021,06-01-2025 03:21,218.75,Home Goods,4
+654,Peter Wilson,peter.wilson@test.org,'+1 057 311 4959,33,Male,San Ant0ni0,Australia,02/28/2022,08/18/2024 05:43,48.91,Sports,3
+229,Mary Smith,mary.smith@mail.net,5315466087,69,Male,San Antonio,UK,09/23/2024,17-05-2025 09:47,881.59,Books,4
+282,Sarah Smith,sarah.smith@example.com,'+1 165 036 2055,-5,Male,Chicago,Germanyx,24-01-2025,15-03-2025 04:30,976.27,Books,2
+687,Mary Doe,mary.doe@example.com,492-065-1342,50,OTHER,Houston,India,28-10-2021,14-08-2023 05:53,699.11,Sports,5
+602,Mary Doe,mary.doe@example.com,(171) 810-3380,63,FEMALE,Houston,Mexico,20-05-2021,09-04-2024 07:02,122.17,Food,1
+1000,John Smith,john.smith@example.com,(800) 504-2617,62,Feemalee,Phoenix,India,14-05-2023,12/22/2023 17:15,208.35,Clothing,3
+115,Sarah Jones,sarah.jones@mail.net,669-995-1804,56,Other,New York,USA,12/17/2022,,872.36,Books,5
+389,Sarah Wilson,sarah.wilson@test.org,(350) 953-2452,70,Female,H0ust0n,India,22-02-2025,06-09-2025 15:28,950.6,Clothing,5
+165,Mary Miller,mary.miller@mail.net,3902407656,30,Male,San Antonio,Germany,02-06-2021,04-08-2023 02:34,,Food,1
+614,Mary Jones,mary.jonesexample.com,,25,Male,Chicago,Australia,18-05-2024,03/16/2025 03:43,165.68,Clothing,0
+750,Mary Wilson,mary.wilson@example.com,8672729453,44,Female,Houston,Mexico,01/14/2023,05-12-2023 22:52,330,Food,5
+537,Mary Jones,mary.jones@example.com,(193) 570-7223,23,Female,Phoenix,Germany,17-09-2020,06-02-2024 23:57,876.42,Electronics,2
+619,Sarah Williams,sarah.williams@example.com,'+1 007 127 1180,60,Female,Houston,UK,10/16/2024,10-11-2024 06:28,,Home Goods,4
+444,John Davis,john.davis@mail.net,4835526769,58,Other,New York,Germany,29-12-2022,02/26/2024 02:46,948.39,Books,2
+621,Emily Brown,emily.brown@mail.net,4687161477,27,Other,Los Angeles,Francez,01/13/2024,25-04-2025 09:04,466.86,Clothing,2
+87,Sarah Smith,sarah.smith@example.com,(850) 432-8422,33,Other, San Diego ,Mexico,17-03-2023,08/19/2024 01:34,893.14,Sports,1
+408,Sarah Williams,sarah.williams@example.com,'+1 196 570 6784,57,Female,San Diego,Australia,20-05-2023,,735.23,Electronics,4
+458,Mary Williams,mary.williams@test.org,3963654121,24,Feemalee,San Diego,UK,15-03-2024,,598.29,Clothing,1
+524,John Williams,john.williams@mail.net,180-785-7289,30,Male,Philadelphia,India,27-02-2020,28-08-2023 06:40,933.32,Clothing,2
+972,Sarah Miller,sarah.miller@example.com,'+1 869 355 4521,42,Other,San Diego,Narnia,05-01-2020,08/31/2020 04:35,66.76,Electronics,5
+388,John Miller,john.miller@mail.net,'+1 379 651 6598,200,other,New York,India,18-12-2024,02-03-2025 12:56,258.25,Electronics,3
+51,Sarah Smith,sarah.smith@test.org,(973) 291-5875,54,other,,Mexico,09/19/2021,09-04-2023 16:21,,Clothing,1
+29,David Smith,,975503770,25,Male,,France,15-07-2025,23-07-2025 22:40,-10,Electronics,4
+494,  John Brown  ,john.brown@test.org,(211) 650-6929,34,Female,Chicago,Francez,22-03-2020,08-03-2021 05:58,105.12,Food,1
+928,Mary Davis,,495-806-0279,23,Other,Los Angeles,UK,19-02-2025,18-03-2025 08:47,963.15,Electr0nics,6
+342,David Brown,david.brown@test.org,419-995-6731,30,Female,,Germany,02/27/2022,,482.7,Electronics,5
+220,Jane Miller,jane.miller@test.org,406-461-9217,43,Female,Phoenix,USA,27-07-2022,04-04-2023 15:59,78.27,Food,5
+440,Sarah Doe,sarah.doe@test.org,5150580318,19,Other,Chicago,Mexico,22-11-2023,01-10-2024 17:43,754.37,Home Goods,5
+818,Peter Wilson,peter.wilson@test.org,'+1 525 959 7572,62,Female,Phoenix,Australia,12/29/2024,05/15/2025 20:36,709.2,Sports,5
+238,Sarah Miller,sarah.miller@mail.net,8474765883,57,Other,Houston,France,20-12-2021,07/17/2022 21:04,511.89,Clothing,3
+91,Sarah Jones,sarah.jones@example.com,(410) 438-8275,28,Otheer,Philadelphia,India,16-10-2022,05/21/2023 23:47,979.31,Food,1
+451,Sarah Davis,sarah.davis@test.org,'+1 940 311 7269,19,Female,Phoenix,USA,14-12-2023,16-05-2025 14:41,521.6,Home Goods,5
+40,Michael Brown,michael.brown@mail.net,3335490704,68,Male,Philadelphia,USA,03/18/2023,12-07-2025 23:24,604.15,Books,3
+952,John Davis,john.davis@test.org,'+1 017 848 8619!,70,Male,Chicago,UK,03-02-2020,03-08-2021 09:11,663.77,Books,3
+633,David Smith,david.smith@mail.net,'+1 010 029 2967,37,Female,Phoenix,France,27-06-2024,08-08-2024 08:09,701.77,Electronics,1
+647,Emily Doe,emily.doe@test.org,510-682-3227,28,MALE,New York,USA,07-05-2024,23-05-2024 06:16,435.58,Electronics,2
+822,David Wilson,david.wilson@test.org,(523) 220-6473,21,Male,Los Angeles,France,27-06-2022,19-05-2024 11:50,478.14,Clothing,4
+877,Mary Jones,mary.jones@test.org,(105) 587-7522,-5,Feemalee,New York,UK,04-04-2022,25-04-2024 18:46,398.99,Books,5
+216,Sarah Wilson,sarah.wilson@example.com,935-518-1670,56,Other,Chicago,Canada,09/30/2023,08-05-2024 06:56,576.03,Home Goods,2
+284,David Smith,david.smith@mail.net,377-989-5887,23,Male,San Diego,Germany,06/15/2025,07-07-2025 18:19,147.96,Sports,3
+509,Emily Davis,emily.davis@test.org,(650) 749-6586,59,Male,Los Angeles,Mexico,09/23/2022,,81.22,Sports,4
+100,David Miller,david.miller@mail.net,2230912697a,28,Male,Phoenix,Australia,02/24/2022,31-12-2024 12:38,149.12,Home Goods,5
+298,John Wilson,john.wilsonexample.com,590-993-7871,29,Male,L0s Angeles,France,02-03-2023,06/20/2023 11:54,344.15,Food,2
+295,  Peter Brown  ,peter.brown@test.org,,33,Other,Los Angeles,France,09-02-2022,,922.85,Home Goods,4
+231,Jane Smith,jane.smith@test.org,'+1 925 935 2215,21,Female,,India,16-07-2020,01/17/2021 23:43,371.56,Books,3
+533,David Miller,david.miller@mail.net,599-106-5429,42,female, New Y0rk ,Mexico,16-05-2022,12/26/2024 21:05,951.1,Books,4
+987,Jane Davis,,8078962774,64,Male,San Antonio,USA,26-11-2024,28-02-2025 12:24,125.34,Books,2
+745,Emily Miller,emily.miller@example.com,(866) 213-6114,28,Male, San Diego ,Mexico,18-09-2021,02-01-2022 23:25,478.44,Sports,3
+691,Mary Smith,mary.smith@example.com,(346) 266-3716,61,Male,Philadelphia,Canada,21-12-2020,07-01-2025 03:23,491.47,Sports,4
+468,Michael Brown,michael.brown@mail.net,115-168-8446,59,Other,Houston,USA,01/14/2021,26-11-2024 15:52,168.34,Food,4
+285,Jane Brown,jane.brown@test.org,(229) 040-6696,40,male,Phoenix,Australia,03-07-2022,22-07-2022 05:36,501.41,Sports,1
+323,John Jones,john.jones@example.com,5741223618,61,Female,Phoenix,Australia,24-12-2021,02-01-2023 22:06,138.38,Sports,2
+336,M@ry Smith,mary.smith@mail.net,,,Other,San Antonio,USA,05-04-2025,07/15/2025 14:51,184.79,Sports,4
+548,Emily Davis,,137-982-0905,41,Female,San Diego,USA,31-12-2024,11-03-2025 19:48,787.28,Electronics,3
+782,Jane Doe,jane.doe@test.org,932-255-0011,52,Other,San Antonio,UK,04-04-2024,04-04-2024 00:22,75.05,Clothing,3
+806,Mary Brown,mary.brown@mail.net,'+1 606 960 4728,34,Female,Phoenix,France,28-04-2023,11/19/2023 02:33,529.67,Books,4
+688,Jane Davis,jane.davis@test.org,1084710693,40,Other,New York,Canada,01/27/2020,04-08-2020 04:40,620.31,Books,2
+966,Mich@el Smith,michael.smith@mail.net,2054887687,26,Female,Chicago,Germany,06/18/2023,11/30/2024 01:41,654.42,Books,4
+169,J@ne Jones,jane.jones@mail.net,(722) 551-6044,27,Male,San Antonio,Australia,09-04-2023,07/15/2025 02:32,140.35,Sports,4
+251,Jane Davis,jane.davistest.org,7688560609,22,Malee,New York,India,15-04-2024,09-06-2024 05:57,666.94,Food,3
+881,Sarah Davis,sarah.davis@example.com,(505) 738-5842,43,Male,San Antonio,France,05-11-2021,,523.09,Books,4
+934,  John Wilson  ,john.wilson@test.org,081-758-0777,49,Female,San Diego,USA,25-09-2022,,,Sports,4
+683,Michael Miller,michael.millertest.org,'+1 581 960 1146,50,OTHER,New York,Germany,02/27/2022,06-06-2022 06:12,224.31,Clothing,5
+485,Peter Miller,peter.miller@test.org,060-203-1521,66,Other,Chicago,India,24-06-2022,06-12-2022 11:08,530.02,Electronics,1
+671,Michael Brown,michael.brown@test.org,7747459729,68,Other,Houston,Atlantis,04-05-2020,18-07-2020 01:21,672.79,Home Goods,3
+484,Michael Doe,michael.doe@mail.net,(369) 349-3799,64,Female,Houston,Indiaz,19-07-2022,,,Clothing,5
+833,Mary Wilson,mary.wilson@example.com,261-211-8149,41,Female,Chicago,France,10-01-2023,06/13/2024 04:37,947.88,Books,2
+46,David Jones,david.jones@mail.net,(156) 899-3485,37,female,San Diego,Canada,01-01-2024,28-05-2024 15:04,19.37,Electronics,1
+346,  Mary Miller  ,mary.miller@test.org,083-713-8208,36,Male,Phoenix,Mexico,10-09-2022,05-05-2024 00:55,378.65,Home Goods,5
+67,Emily Doe,emily.doe@mail.net,,62,other,Chicago,USA,02-09-2021,21-04-2023 10:02,919.27,Home Goods,1
+875,Jane Brown,jane.brown@test.org,7076048910,54,MALE,New York,Canada,23-10-2024,22-02-2025 21:28,282.49,Books,4
+143,Peter Brown,peter.brown@test.org,'+1 313 388 9509,26,Male,San Antonio,Australia,15-12-2023,14-04-2025 15:43,956.26,Home Goods,2
+904,Jane Smith,jane.smith@test.org,'+1 425 770 1080!,,Male,San Antonio,USA,02-06-2024,11/24/2024 04:44,683.77,Food,4
+94,Sarah Davis,sarah.davis@mail.net,466-162-6935,-5,Other,Los Angeles,India,18-01-2023,22-01-2024 01:43,361.15,Sports,5
+359,Peter Jones,peter.jones@example.com,'+1 846 048 7123,45,Female,Chicago,Germany,31-12-2024,05/18/2025 22:55,719.68,Home Goods,2
+436,Jane Davis,jane.davis@example.com,4874265267,25,Other,Los Angeles,USA,13-09-2024,14-10-2024 05:32,990.52,Electronics,4
+597,Emily Williams,emily.williams@example.com,(422) 837-2601,28,FEMALE,Chicago,Canada,18-01-2023,05-04-2025 22:06,597.77,Books,5
+134,David Davis,david.davis@mail.net,742-532-2310,38,MALE,Phoenix,France,09-05-2023,04-07-2024 08:54,49.27,Books,4
+948,Peter Smith,peter.smith@mail.net,'+1 685 503 8670,26,Other,Phoenix,Canada,05/15/2025,05/22/2025 14:54,399.26,Food,3
+632,Peter Miller,peter.miller@mail.net,484-836-3041,66,Other,Los Angeles,USA,06/19/2022,04/13/2024 16:23,180.51,Clothing,2
+545,Michael Brown,,(936) 008-4860,53,Other,Phoenix,USA,28-01-2024,07/18/2024 00:32,852.96,Electronics,2
+407,Emily Miller,emily.miller@example.com,'+1 937 412 6336,34,Other,Houston,USA,17-04-2023,31-05-2023 18:22,745.7,Clothing,1
+26,Michael Wilson,michael.wilson@test.org,'+1 011 152 8181,61,otheer,San Antonio,Mexico,09-09-2024,19-07-2025 06:08,180.12,Electronics,3
+968,Sarah Miller,sarah.miller@test.org,(982) 353-7140,,Other,San Antonio,India,04-11-2024,19-07-2025 08:21,297.42,Clothing,2
+526,Michael Brown,michael.brown@example.com,'+1 946 117 5477,43,Other,Houston,UK,04-10-2021,10-05-2024 01:11,216.38,Books,3
+353,Michael Williams,michael.williams@mail.net,395-696-9771,65,Male,Chicag0,India,03/17/2020,19-03-2020 17:24,608.99,Sports,3
+944,Emily Williams,,882-402-1010,36,Female,New York,India,15-06-2024,28-02-2025 22:28,939.68,Home Goods,5
+742,Sarah Brown,sarah.brown@mail.net,(638) 827-7851,18,Female,Chicago,Mexicoq,07-06-2022,05-09-2024 14:17,870.16,Clothing,5
+405,Mary Smith,mary.smith@example.com,067-298-6194,70,Female,Houston,Germany,26-08-2024,31-10-2024 09:50,,Home Goods,1
+232,Sarah Brown,sarah.brown@mail.net,'+1 861 478 7401,30,Other,Houston,UK,30-10-2023,17-11-2023 14:04,742.76,Home Goods,2
+370,Mary Davis,mary.davis@example.com,156-124-6209,25,male,Philadelphia,Australia,13-02-2024,19-03-2025 04:33,480.29,Food,3
+634,Emily Doe,emily.doe@example.com,751992473,60,Female,Philadelphia,Canada,07-08-2023,07/27/2025 15:13,348.92,Food,4
+207,Mary Jones,mary.jones@test.org,(645) 671-5474,57,Other,Phoenix,Indiaz,15-08-2024,27-09-2024 13:16,902.75,Food,4
+572,David Miller,david.miller@example.com,'+1 716 848 8134,36,male,Houston,Canada,21-04-2024,23-04-2024 15:20,146.96,Electronics,3
+705,Sarah Miller,sarah.miller@test.org,369-584-0325,47,Other,Phoenix,Mexico,02-03-2023,07-07-2023 17:22,641.34,Food,5
+267,Emily Williams,,'+1 459 844 0145,63,Male, Los Angeles ,India,29-03-2021,10-10-2021 21:28,942.01,Electronics,3
+201,Emily Miller,emily.miller@mail.net,'+1 307 855 4478,62,Female,,Australia,22-09-2020,04-07-2025 22:13,321.99,Clothing,1
+376,Peter Davis,peter.davis@mail.net,(039) 515-3175,50,Female,New York,France,24-12-2021,15-06-2024 01:04,260.05,Books,4
+889,Jane Davis,jane.davis@mail.net,7451051195,19,Other,Chicago,Germany,03-01-2024,16-05-2024 18:46,937.76,Sports,2
+542,Michael Miller,michael.miller@test.org,365-270-0022,46,Female,San Diego,Canadaq,28-10-2020,31-10-2021 07:58,920.9,B00ks,3
+320,Peter Davis,peter.davis@example.com,4288208684,25,Other,Phoenix,India,03/24/2022,11-09-2023 23:48,939.84,Food,5
+291,John Smith,john.smith@example.com,(693) 857-8222,34,Female,Phoenix,UK,01-10-2021,29-05-2023 20:19,835.69,Electronics,4
+168,Mary Miller,,(494) 309-2087,70,Female,Houston,Mexico,18-01-2023,,822.2,Clothing,5
+708,Emily Wilson,emily.wilson@mail.net,758-593-5504,43,Other,Los Angeles,India,21-01-2020,06-05-2022 10:27,841.97,Food,1
+943,Peter Jones,peter.jones@test.org,(665) 101-8238,42,Other,Los Angeles,India,16-07-2025,07/18/2025 20:28,86.76,Food,3
+86,Michael Williams,michael.williams@mail.net,,46,Male,San Diego,Germany,06/15/2022,28-02-2025 19:17,97.66,Books,4
+334,Sarah Brown,sarah.brown@test.org,718-482-3829,64,Female, Houston ,Mexico,12-02-2024,17-12-2024 03:14,714.07,Clothing,4
+423,Sarah Smith,sarah.smith@mail.net,,26,Other,Chicago,France,06-08-2022,12-01-2023 06:45,948.23,Sports,3
+591,Mich@el Wilson,michael.wilson@test.org,,50,Other, New York ,India,08/19/2024,25-05-2025 20:24,472.15,Electronics,1
+880,Sarah Jones,sarah.jones@test.org,(382) 606-6902,200,Male,Phoenix,Australia,09/29/2022,05/24/2025 03:54,382.25,Books,10
+377,David Brown,david.brown@test.org,(156) 007-2175a,25,female,New York,France,16-12-2022,08-12-2023 07:58,234.67,Clothing,2
+840,Mary Smith,,(564) 738-2808,34,Female,San Diego,UK,12/16/2022,08-05-2024 08:19,47.44,Books,1
+770,Emily Davis,,6698987278,66,Male,San Antonio,Germany,20-04-2020,10-11-2023 10:56,37.51,Electronics,1
+673,Jane Williams,jane.williams@example.com,'+1 925 225 7483,30,Female,Los Angeles,USA,04/23/2023,12-06-2023 19:55,420.07,Electronics,3
+38,Michael Smith,michael.smith@example.com,200-601-8557,,Male,Phoenix,Canada,05-08-2022,23-05-2025 12:35,839.22,Electronics,3
+126,Sarah Williams,sarah.williams@mail.net,058-073-9736,33,Female,Chicago,Canada,17-03-2020,,895.97,Books,4
+480,Emily Brown,emily.brown@mail.net,(021) 839-0840,63,Other, Chicago ,USA,04-11-2023,17-12-2024 22:40,348.85,Books,2
+570,Jane Doe,jane.doe@test.org,'+1 839 498 9935,40,Male,Chicago,Australia,14-12-2022,01-03-2023 09:29,654.16,Food,3
+985,Mary Doe,mary.doe@mail.net,180-527-2858,39,Female,Chicago,Canada,13-02-2025,03/22/2025 00:12,934.45,Clothing,3
+804,Jane Jones,jane.jones@mail.net,'+1 290 015 9095,28,Other, Phoenix ,Australia,06-06-2020,11-11-2021 21:55,374.94,Home Goods,4
+993,Michael Williams,michael.williams@example.com,570-357-8175,,Other,Chicago,France,07-02-2020,31-10-2023 10:39,836.67,Sports,4
+198,  John Brown  ,john.brown@mail.net,8392927094,67,FEMALE,Phoenix,Canada,12-07-2021,02-01-2025 17:39,499.09,Food,4
+675,John Smith,john.smith@example.com,225-283-6119,40,Male,San Antonio,Germany,04/21/2023,31-08-2023 22:07,291.99,Books,5
+396,Michael Davis,michael.davis@mail.net,(785) 665-6112,45,Female,Chicago,USA,07-04-2020,14-02-2024 12:28,27.52,Clothing,5
+955,Michael Brown,michael.brown@test.org,,47,Male,Chicago,India,17-05-2022,06-10-2023 13:29,903.4,Books,5
+460,John Smith,john.smith@example.com,432-569-1278,27,Other,New York,Canada,22-08-2020,27-11-2020 01:29,978.77,Books,3
+513,Sarah Davis,sarah.davis@test.org,'+1 132 070 9090a,67,Other,Chicago,Mexico,12/19/2024,17-07-2025 18:43,399.43,Electronics,5
+978,Mary Jones,mary.jones@mail.net,3128650319,26,Female,San Diego,Mexico,06/26/2021,12-12-2024 08:34,627.78,Sports,3
+918,Mary Wilson,mary.wilson@example.com,(209) 084-7171,37,Male,Philadelphia,France,02-12-2023,11-04-2024 05:47,840.1,Books,2
+472,Peter Doe,peter.doe@example.com,'+1 132 957 9786,29,Other,Los Angeles,India,19-12-2022,04/17/2024 23:39,271,Clothing,5
+466,David Williams,david.williams@test.org,235-015-5042,28,Female,San Antonio,USA,16-04-2023,03-08-2024 17:26,805.72,B00ks,5
+988,Michael Smith,michael.smith@test.org,2538604688,23,Female,Chicago,UK,13-11-2022,09/26/2023 21:22,729.65,Sports,4
+215,Michael Smith,michael.smith@mail.net,'+1 386 955 1092,-5,Other,Houston,Canada,22-06-2025,22-07-2025 19:05,532.33,Books,4
+894,Jane Williams,jane.williams@mail.net,8571101137,35,Female,Los Angeles,Canada,24-08-2024,12-07-2025 07:28,717.44,Electronics,3
+397,Michael Smith,,'+1 694 952 3834,42,Other,San Diego,Germany,07/17/2020,06-12-2025 04:42,588.11,Books,10
+435,David Miller,david.miller@test.org,271-501-6383,62,Male,San Diego,Canada,31-05-2022,06-09-2022 20:49,876.78,Clothing,1
+375,Peter Smith,peter.smith@test.org,(986) 663-8564,19,Female,Los Angeles,Mexico,25-11-2023,16-06-2024 13:38,634.07,Home Goods,3
+224,Sarah Davis,sarah.davis@mail.net,'+1 945 591 0588,27,Other,Los Angeles,Germany,18-11-2021,09-05-2023 01:24,294.2,Books,3
+274,David Miller,david.miller@test.org,1170758812,69,Female,Los Angeles,Mexico,04-12-2022,24-02-2023 10:13,404.19,Home Goods,1
+200,Peter Doe,peter.doe@example.com,(439) 442-0505,39,Other,Chicag0,Germany,06-01-2021,10-08-2021 06:00,445.77,Sports,5
+890,David Miller,david.miller@example.com,6985717419,54,Other,San Antonio,Canada,21-10-2021,30-01-2025 01:05,652.84,Sports,5
+774,Emily Wilson,emily.wilson@mail.net,9505458870,68,Other,San Dieg0,Australia,08-04-2021,18-09-2022 14:34,875.47,Clothing,2
+510,David Jones,david.jones@test.org,257-728-5200,41,Male,Los Angeles,Germany,03-10-2023,02-09-2024 05:00,321.48,Books,2
+222,Emily Doe,emily.doe@example.coom,(405) 715-0913,62,Male,San Diego,France,10-01-2025,06/15/2025 09:49,203.42,Books,4
+424,Mary Smith,mary.smith@example.coom,2289818513,40,Male,Phoenix,USA,17-03-2020,03-05-2024 13:01,429.24,Books,5
+583,Mary Davis,mary.davis@mail.net,992-944-5405,26,OTHER,San Antonio,USA,16-12-2021,03/19/2025 19:19,680.35,Electronics,3
+86,Michael Williams,michael.williams@mail.net,,46,Male,San Diego,Germany,06/15/2022,28-02-2025 19:17,97.66,Books,4
+805,  John Jones  ,john.jones@mail.net,'+1 574 807 9218#,69,Female,San Antonio,Germany,14-06-2025,07-07-2025 16:27,290.92,Books,2
+66,David Smith,david.smith@mail.net,729-773-8103,69,MALE,San Antonio,Narnia,10/31/2023,14-11-2023 04:45,76.9,Home Goods,3
+477,Peter Williams,peter.williams@mail.net,'+1 176 145 9187,50,Other,,France,05-05-2024,31-05-2024 19:07,611.8,Sports,5
+698,David Jones,david.jones@test.org,'+1 481 270 5247,59,male,Houston,UK,31-08-2021,11-04-2025 23:51,840.42,Electronics,3
+603,Michael Brown,michael.brown@example.com,4636163349,19,Female,Los Angeles,India,07/22/2020,30-06-2025 12:55,634.07,Home Goods,2
+607,Michael Jones,michael.jones@example.com,(509) 518-8095,69,male,San Antonio,France,29-12-2024,09-07-2025 06:25,800.95,Home Goods,3
+529,David Smith,david.smith@test.org,(626) 332-4136,70,male,Chicago,Canada,12/16/2021,28-04-2025 02:46,189.1,Food,3
+17,Sarah Williams,sarah.williams@test.org,847063625,41,Female,Houston,Australia,26-08-2024,06/18/2025 10:56,805.84,Home Goods,5
+145,Jane Jones,jane.jones@test.org,(655) 760-7750,55,male,Phoenix,Mexico,08-11-2022,12-05-2023 19:04,842.33,Sports,1
+879,Michael Miller,michael.miller@test.org,,48,Male,Houston,India,01/23/2021,28-01-2023 09:18,643.15,Electronics,5
+446,Michael Wilson,michael.wilson@example.com,'+1 919 255 2575,,Other,Phoenix,UK,18-05-2020,08-08-2022 12:49,880.09,Food,3
+338,Jane Smith,jane.smith@example.com,(403) 464-9826,40,Female,San Diego,France,12-08-2023,28-04-2025 08:38,414.82,Electronics,4
+279,Peter Wilson,peter.wilson@example.com,'+1 988 498 7583,19,Other,New York,Mexico,09/30/2021,01-05-2022 15:32,399.58,Sports,1
+571,Peter Williams,peter.williams@mail.net,(148) 464-4160,24,Other,San Antonio,Australia,02-12-2022,08/26/2022 10:21,241.39,Clothing,5
+21,Peter Davis,peter.davis@example.com,(349) 450-7698,59,Male, Phoenix ,Australia,13-09-2023,15-05-2024 06:15,,Electronics,5
+49,John Doe,john.doe@example.com,(509) 188-0512,65,Other,New York,Germany,24-02-2021,05-12-2025 08:24,164.22,Electronics,3
+825,J@ne Willi@ms,jane.williams@test.org,(888) 882-7958,36,Other,San Antonio,UK,04-08-2024,20-05-2025 06:22,874.37,Books,5
+700,Mary Williams,mary.williams@test.org,197-366-5913,34,Female,New York,India,12-08-2020,04-07-2022 13:07,287.48,Clothing,3
+665,Emily Brown,emily.brown@test.org,(706) 063-7614a,35,Other,Phoenix,Mexico,04-06-2024,26-08-2024 01:41,378.59,Sports,2
+859,Sarah Doe,sarah.doe@example.com,318-654-7896,24,Other,New York,USA,25-06-2024,10-06-2025 23:17,363.4,Books,1
+243,  John Davis  ,john.davis@test.org,616-386-5038,39,Female,San Antonio,Mexicoq,25-12-2024,05-01-2025 15:08,802.58,Electronics,2
+950,Peter Wilson,peter.wilson@test.org,8182201812,34,Other,Phoenix,Australia,05/20/2020,30-05-2024 04:26,21.43,Books,5
+92,David Davis,david.davis@example.com,521-181-8158,67,other,Chicago,USA,22-08-2021,15-03-2025 06:56,870.21,Electronics,3
+331,Mary Doe,mary.doe@mail.net,'+1 122 884 6481,39,Malee,Chicago,India,03-01-2022,29-03-2025 18:01,221.41,Sports,5
+680,Michael Williams,,561-824-3527,18,Male,Philadelphia,India,04-05-2021,11-06-2021 04:01,17.29,Home Goods,10
+351,John Williams,john.williamsmail.net,064-076-6983,40,Male,San Antonio,Germany,07-11-2020,29-07-2023 08:36,804.18,Home Goods,3
+758,Jane Miller,jane.miller@example.com,'+1 454 149 8380,26,Other,Philadelphia,Canada,24-11-2024,06-06-2025 16:19,622.87,Clothing,4
+202,Mary Williams,mary.williams@example.com,'+1 197 709 3485,54,Male,San Diego,Canada,26-08-2023,12/20/2024 05:02,87.39,Clothing,2
+324,David Miller,david.miller@example.com,'+1 479 868 1380,30,Other,New York,Narnia,07-06-2025,06/20/2025 10:24,775.27,Electronics,1
+781,Michael Wilson,michael.wilson@test.org,(161) 776-1453,54,Other,New York,France,01-10-2023,09-12-2024 09:54,164.28,Electronics,10
+365,Emily Brown,emily.brown@test.org,(028) 074-0190,43,Other,Phoenix,UK,14-11-2024,27-07-2025 13:41,694.78,Home Goods,5
+812,David Jones,,(803) 817-5268,62,Otheer,New York,Mexico,23-04-2024,07-05-2024 11:49,182.49,Sports,5
+623,Sarah Wilson,sarah.wilson@mail.net,7294834049,65,Female,Philadelphia,France,30-07-2022,01/22/2023 04:59,527.25,Food,4
+356,Emily Williams,emily.williams@example.com,'+1 796 877 4473,28,Male,Los Angeles,Germany,02-02-2022,03-10-2024 16:36,850.56,Books,4
+936,David Smith,david.smith@mail.net,(182) 636-4528,44,Other,San Diego,India,11/26/2024,17-05-2025 12:37,430.41,Books,2
+547,Mary Wilson,mary.wilson@test.org,(601) 495-8705,67,Other,New York,UK,30-05-2024,15-09-2024 08:23,511.38,Books,4
+722,David Williams,david.williams@example.com,279-099-4935,36,Female,Philadelphia,Canadaz,10-01-2025,06-05-2025 07:08,729.87,Sports,1
+640,Emily Miller,emily.miller@test.org,2270149036,70,Female,San Antonio,Australia,02-11-2020,03-02-2022 18:19,10.97,Home Goods,1
+658,Jane Miller,jane.miller@example.com,'+1 504 838 0742,27,Other,Houston,Australia,09-01-2020,07/14/2021 04:11,355.58,Clothing,1
+995,Sarah Wilson,sarah.wilson@mail.net,'+1 773 758 8755,39,Male, Houston ,Indiax,01-12-2024,06/15/2025 17:36,-10,Electronics,5
+699,Sarah Smith,sarah.smith@test.org,(475) 044-0749,32,Female,Chicago,Narnia,15-09-2024,05-01-2025 19:55,,Food,5
+992,David Williams,david.williams@example.com,4076607742,20,male,Los Angeles,Mexico,09-11-2020,09/23/2024 20:14,311.8,Electronics,4
+657,David Williams,david.williams@example.com,(607) 956-2650,58,Other,Houston,Canada,27-11-2024,04/28/2025 19:11,322.24,Electronics,4
+411,  John Doe  ,john.doe@mail.net,'+1 370 338 0920,23,male,,USA,01-01-2020,25-03-2020 03:40,436.32,Clothing,1
+842,Emily Smith,emily.smith@example.com,(083) 606-8052,,Other,Philadelphia,Australia,19-07-2025,20-07-2025 08:27,207.94,Clothing,4
+593,Peter Davis,peter.davis@mail.net,980-435-2833,25,Other,San Antonio,Indiax,08-03-2024,25-04-2024 21:05,291.01,Electronics,3
+766,Peter Smith,peter.smith@mail.net,6497419719,23,Male,New York,UK,03/19/2022,05-04-2022 10:09,633.26,Food,5
+512,Sarah Smith,sarah.smith@test.org,(749) 738-1896,200,Female,Phoenix,USA,09-01-2021,,947.1,Food,4
+68,Peter Smith,peter.smith@mail.net,(418) 340-3262,18,Other,Philadelphia,Germanyq,07/21/2022,27-05-2023 06:00,141.4,B00ks,4
+384,Sarah Smith,sarah.smithexample.com,'+1 558 943 2627,62,Otheer,Phoenix,USA,16-11-2023,,536.08,Food,4
+951,David Jones,david.jones@test.org,6975350294,36,Other,Houston,Narnia,05-03-2024,04-11-2024 23:18,347.06,Electronics,5
+119,David Miller,david.miller@test.org,(188) 085-9286,40,Male,Chicago,France,11/26/2023,24-12-2023 06:42,95.54,Sports,1
+96,Sarah Brown,sarah.brown@example.com,224-647-9854,37a,Male,Philadelphia,Mexico,07-10-2020,28-03-2022 18:13,422.7,Books,4
+686,Emily Smith,emily.smith@example.com,5428835945,,Other,Los Angeles,India,23-12-2023,14-05-2024 09:16,483.67,Home Goods,5
+289,Emily Davis,emily.davis@test.org,(852) 071-7916,19,Other,San Antonio,Mexico,15-08-2021,25-10-2024 20:25,905.98,Clothing,5
+796,Sarah Williams,sarah.williams@test.org,'+1 362 184 7449,69,Feemalee,Los Angeles,Canada,03-06-2024,03-05-2025 01:45,372.18,Sports,1
+148,John Miller,john.miller@example.com,6917450749,52,Female,Houston,Mexico,07/22/2023,10-09-2023 04:30,61.08,Home Goods,1
+655,Jane Smith,jane.smith@example.com,(851) 962-6863,21,MALE,New York,Germany,18-05-2025,01-06-2025 23:23,303.09,Food,2
+479,David Smith,david.smith@mail.net,(586) 896-8892,23,Female,San Diego,USA,06-06-2020,03-03-2022 00:15,447.63,Books,2
+84,David Davis,david.davis@example.com,4995350691,,other,Phoenix,India,18-05-2025,05/20/2025 01:00,50.56,Electronics,2
+924,Mary Williams,mary.williams@test.org,(934) 934-3088,45,Female,Phoenix,Australia,17-03-2022,08-06-2023 06:53,404.72,Electronics,2
+581,Peter Wilson,peter.wilson@test.org,'+1 311 041 3795#,200,Male,San Diego,Canada,19-12-2024,,476.72,Home Goods,3
+314,David Brown,david.brown@example.com,(503) 308-2316,61,MALE,Phoenix,UK,31-12-2024,24-06-2025 04:24,460.84,Electronics,1
+474,Emily Miller,emily.miller@test.org,898-497-8316,56,Feemalee,Houston,Canada,10-01-2023,06-08-2025 13:11,,Sports,4
+367,David Doe,david.doe@mail.net,2919730528,65,FEMALE,Chicago,India,16-04-2023,15-07-2024 05:09,594.25,Sports,1
+264,David Miller,david.miller@mail.net,(703) 333-7078!,56,Female,New York,India,02/22/2024,,219.81,Clothing,2
+850,Michael Davis,michael.davis@test.org,146612955,69,Male,Phoenix,USA,05-08-2025,05/29/2025 21:53,931.89,Electronics,5
+357,David Brown,david.brown@mail.net,(144) 480-6668,150,Malee,Phoenix,India,04/14/2023,02/17/2024 01:29,576.18,Home Goods,5
+798,David Jones,david.jones@mail.net,555-022-9974,53,Male,New York,Australia,28-07-2020,03/14/2023 11:07,939.39,Food,4
+690,John Williams,john.williams@test.org,674-292-2389,,Male,Phoenix,USA,03-04-2020,26-08-2022 19:37,948.6,Books,1
+76,Emily Jones,emily.jones@example.com,977-686-5949,53,MALE, Los Angeles ,Canada,07-03-2021,07-10-2021 15:06,333.44,Cl0thing,1
+16,Mary Wilson,mary.wilson@mail.net,'+1 912 131 7274,55,Other,,India,16-06-2025,10-07-2025 17:00,810.48,Food,5
+771,Mary Jones,mary.jones@example.com,(415) 344-3060,51,Female,San Diego,Australia,03-06-2022,09-03-2024 22:52,455.44,Books,1
+428,Michael Jones,michael.jones@mail.net,(208) 225-1313,61,Female,San Ant0ni0,Mexico,06-04-2022,02/14/2025 19:13,917.83,Electronics,5
+197,Sarah Wilson,sarah.wilson@mail.net,(778) 826-0037,,female,San Antonio,Australia,17-03-2021,12-03-2022 05:54,628.53,Electronics,1
+826,John Brown,john.brown@test.org,038-749-1087,51,Male,New York,Mexico,30-03-2023,08-05-2025 07:23,979.97,Books,3
+178,Sarah Doe,sarah.doe@example.com,374-000-2921,,Male,San Antonio,Mexico,07-05-2022,15-12-2024 20:59,81.62,Sports,3
+887,Sarah Smith,sarah.smithexample.com,385-655-9878,24,Female,Chicago,Australia,25-05-2023,31-01-2024 23:34,302.66,Home Goods,1
+786,Sarah Brown,sarah.brown@test.org,5455165225,64,Female, San Diego ,Germany,06/16/2022,06-11-2023 09:54,410.74,Home Goods,2
+90,David Brown,david.brown@test.org,7627724091,60,Female,San Antonio,Australia,23-11-2023,04/26/2024 16:48,746.54,Sports,5
+837,Michael Doe,michael.doe@mail.net,756-877-3434,42,Male,Chicago,Australia,20-02-2025,03-06-2025 11:22,950.04,Electronics,1
+482,Sarah Smith,sarah.smith@example.com,151835405,38,Male,Los Angeles,Mexico,03-11-2022,25-09-2022 15:23,50000,H0me G00ds,1
+926,Mary Miller,mary.miller@example.com,281-297-0315,63,Male,New York,Indiax,09/22/2024,12-11-2024 02:11,274.23,Clothing,3
+387,Jane Jones,jane.jones@test.org,'+1 708 134 8309,29,Other,Chicago,UK,05/18/2020,14-04-2025 04:23,222.79,Food,3
+565,John Williams,john.williams@mail.net,1863073668,48,Female,Chicago,Mexico,12/16/2020,11-06-2022 01:20,31.14,Food,4
+759,Mary Jones,mary.jones@test.org,'+1 694 174 2986,64,Other,Houston,Germany,06-12-2023,08-12-2023 10:13,430.29,Food,2
+682,John Miller,john.miller@test.org,(439) 851-4383,53,OTHER,Philadelphia,USA,25-12-2020,22-12-2021 05:06,244.78,Food,5
+122,Michael Doe,michael.doe@example.com,062-469-8149,54,Female,San Antonio,India,01-05-2024,06-10-2024 00:15,553.14,Clothing,5
+876,David Davis,david.davis@example.com,549-856-3225,52,Malee,Phoenix,Germany,24-02-2022,02-10-2023 07:46,245.62,Electronics,3
+763,Peter Williams,peter.williams@mail.net,'+1 095 662 0257,34,Male,Phoenix,Australia,06-03-2020,14-08-2020 14:01,434.24,Clothing,4
+573,Peter Brown,peter.brown@test.org,367-199-7319,55,Male,Houston,Australia,17-12-2023,08-03-2024 05:41,515.15,Sports,1
+940,David Davis,david.davis@test.org,5359722150,37,Female,Los Angeles,USAx,09/14/2021,29-07-2023 20:01,79.66,Clothing,3
+113,  David Jones  ,david.jones@test.org,795901334,20,Female,San Antonio,Mexico,24-07-2025,26-07-2025 10:57,801.87,Electronics,1
+120,John Wilson,john.wilson@mail.net,(108) 285-8966,22,Other,Los Angeles,France,09/27/2023,20-04-2025 16:47,587.18,Clothing,3
+706,Sarah Jones,sarah.jones@test.org,842-705-7675,45,Female,San Diego,Germany,02/24/2020,05/21/2023 20:09,585.56,Food,2
+709,Mary Jones,mary.jones@test.org,'+1 859 645 9856,44,Male,San Diego,France,22-02-2021,19-11-2023 00:24,409.14,Food,1
+942,David Wilson,david.wilson@example.com,'+1 527 793 5887,67,Female,San Antonio,India,11/13/2023,29-06-2024 16:18,555.11,Food,5
+266,Mary Miller,mary.miller@test.org,808-706-5420,28,Male, New York ,Canada,25-10-2021,04-11-2024 13:55,642.08,Clothing,2
+780,Mary Wilson,mary.wilson@mail.net,6748410133,200,Other,Phoenix,UK,02/16/2021,11/26/2021 07:25,,Food,4
+965,John Davis,john.davis@example.com,9561337087,38,Male,Houston,India,10/17/2023,01/29/2024 11:05,889.12,Clothing,1
+511,John Doe,john.doe@mail.net,'+1 937 923 8814,19,Other,Phoenix,Mexicox,08-03-2023,02-11-2023 14:38,505.21,Food,5
+610,Michael Jones,michael.jones@test.org,8827554848,49,other,Chicago,Atlantis,22-11-2022,09/21/2024 21:43,508.03,Food,2
+660,Sarah Doe,sarah.doe@example.com,040-555-6966,40,Other,Houston,Germany,21-07-2023,02-12-2025 11:07,736.31,Sports,4
